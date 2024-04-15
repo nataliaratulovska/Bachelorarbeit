@@ -1,0 +1,1 @@
+#welche library? numpy? nltk, für merkmal analyse!
