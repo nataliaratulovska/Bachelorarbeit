@@ -16,3 +16,9 @@ Zwei Punkte, die stat. untersucht werden:
 
 Probleme Annotation:
 - semikolon, doppelpunkt und wörtliche rede mitten im satz, wie will ich das regeln?
+
+
+Offene Fragen:
+- Ist es ok, dass ich Titel und Autor aus txt entferne? Für stat. Analyse eigentlich überflüssig, oder können Titel auch Suspense beinhalten? Interessanter Gedanke...
+- Wie viel Literatur brauche ich? Haben wir bestimmte Formale Vorgaben (Zitierstil, Format etc
+- )
