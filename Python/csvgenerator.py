@@ -45,3 +45,11 @@ if __name__ == "__main__":
 #will ich bei der fremde die namen ausklammern? -> kann ergebnis verfälschen
 #jeder satz seine eigene ID? Für Referenzierung innerhalb der Arbeit evtl wichtig?
 #bei fremde.txt ist dauernd dieser blöde bindestich, der kommt weg! >:-/
+'''
+Welche Spalten soll csv haben??
+- kompletter Satz
+- Titelid
+- satzid?
+- annotation
+- ist es ein fragesatz?
+- ist es ein kurzer satz? 3=> Satzglieder'''
