@@ -1,5 +1,7 @@
 # Natalias super coole Bachelorarbeit
 
+Keine Sorge, das wird noch alles schön gemacht :)
+
 ## Dokumentation .txt Erzählungen
 
 Notizen:
@@ -23,7 +25,7 @@ Offene Fragen:
 - Wie viel Literatur brauche ich? Haben wir bestimmte Formale Vorgaben (Zitierstil, Format etc
 - )
 
-Für die Kontrollgruppe folgende Texte (Auswahl):
+Für die Kontrollgruppe folgende Texte (Auswahl, es werden 3 Texte):
 auf diese wird in der Arbeit nicht/kaum eingegangen, außer Begründung der Wahl
 - Eine Spukgeschichte Hoffmann
 - Am Kamin Storm
