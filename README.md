@@ -22,3 +22,11 @@ Offene Fragen:
 - Ist es ok, dass ich Titel und Autor aus txt entferne? Für stat. Analyse eigentlich überflüssig, oder können Titel auch Suspense beinhalten? Interessanter Gedanke...
 - Wie viel Literatur brauche ich? Haben wir bestimmte Formale Vorgaben (Zitierstil, Format etc
 - )
+
+Für die Kontrollgruppe folgende Texte (Auswahl):
+auf diese wird in der Arbeit nicht/kaum eingegangen, außer Begründung der Wahl
+- Eine Spukgeschichte Hoffmann
+- Am Kamin Storm
+- Bulemanns Haus Storm
+- Das öde haus Hoffmann
+- Tatsachen im Falle Waldemar Poe
