@@ -38,7 +38,6 @@ def length(text):
 df['Satzlänge']=df['Satz'].apply(length)
 
 
-
 #Speichern der bearbeiteten Datei
 df.to_csv('annotated csv/python_edit.csv', sep=',', index=False)
 
