@@ -15,6 +15,7 @@ import pandas
 
 #Daten einbinden
 df = pandas.read_csv('annotated csv/python_edit.csv')
+#Es werden Daten ausgelassen, die für die Analyse nicht von Bedeutung sind, z. B. die Sprechernamen im "Der Fremde", da hierdurch das Ergbnis verfälscht wird.
 csv = df.drop(df[df.Suspense == '-'].index)
 
 #Kontingenztabelle
@@ -67,7 +68,7 @@ print(stories.apply(chi2extendedgroup))
 
 def ttest(df):
     s = df[df['Suspense']== '1']['Satzlänge']
-    nos=df[df['Suspense']=='0']['Satzlänge']
+    nos = df[df['Suspense']=='0']['Satzlänge']
     # Berechnung Mittelwerte
     ms = s.mean()
     mnos = nos.mean()
@@ -81,5 +82,24 @@ def ttest(df):
     #return pandas.Series([p, t, df], index=['pvalue', 't-test', 'freiheitsgrade'])
     return t, ms, mnos, sds, sdnos
 
+def ttestgroup(group):
+    s = group[group['Suspense'] == '1']['Satzlänge'].to_numpy()
+    nos = group[group['Suspense'] == '0']['Satzlänge'].to_numpy()
+    # Berechnung Mittelwerte
+    ms = s.mean()
+    mnos = nos.mean()
+    # Standardabweichung
+    sds = s.std()
+    sdnos = nos.std()
+    # unabhängiger ttest/zweistichproben ttest
+    # t, p= ttest_ind(s, nos)
+    t = ttest_ind(nos, s)
+
+    # return pandas.Series([p, t, df], index=['pvalue', 't-test', 'freiheitsgrade'])
+    return t, ms, mnos, sds, sdnos
+
+
 print(ttest(csv))
 #mit einem wert von -2 -> in der gruppe S=1 um ca 2 standardabweichungen geringer als bei S=0
+
+print(stories.apply(ttestgroup))
