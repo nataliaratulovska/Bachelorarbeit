@@ -1,0 +1,824 @@
+id,Titel,Satz,Suspense,Fragesatz,Satzlänge
+0,Am Kamin,Ich werde Gespenstergeschichten erzählen!,0,0,4
+1,Am Kamin,"Ja, da klatschen die jungen Damen schon alle in die Hände.",0,0,11
+2,Am Kamin,"Wie kommen Sie denn zu Gespenstergeschichten, alter Herr?",0,1,8
+3,Am Kamin,Ich?,0,1,1
+4,Am Kamin,das liegt in der Luft,0,0,5
+5,Am Kamin,"Hören Sie nur, wie draußen der Oktoberwind in den Tannen fegt! ",0,0,11
+6,Am Kamin,Und dann hier drinnen dies helle Kienäpfelfeuerchen!,0,0,7
+7,Am Kamin,"Aber ich dächte, die Spukgeschichten gehörten gänzlich zum Rüstzeug der Reaktion?",0,1,11
+8,Am Kamin,"Nun, gnädige Frau, unter Ihrem Vorsitz wollen wir es immer darauf wagen.",0,0,12
+9,Am Kamin,"Machen Sie nicht solche Augen, alter Herr!",0,0,7
+10,Am Kamin,Ich mache gar keine Augen.,0,0,5
+11,Am Kamin,Aber wir wollen Stühle um den Kamin setzen.,0,0,8
+12,Am Kamin,So!,0,0,1
+13,Am Kamin,die Chaiselongue kann stehenbleiben.,0,0,4
+14,Am Kamin,"Nein, Klärchen, nicht die Lichter ausputzen! ",0,0,6
+15,Am Kamin,"Da merkt man Absicht, und... et cetera.",0,0,7
+16,Am Kamin,So fang denn endlich einmal an!,0,0,6
+17,Am Kamin,In meiner Vaterstadt...,0,0,3
+18,Am Kamin,Wart noch; ich will mich vor dem Kamin auf den Teppich legen und Kienäpfel zuwerfen.,0,0,15
+19,Am Kamin,Tu das! ,0,0,2
+20,Am Kamin,"Also, ein Arzt in meiner Vaterstadt hatte einen vierjährigen Knaben, welcher Peter hieß.",0,0,13
+21,Am Kamin,Das fängt sehr trocken an!,0,0,5
+22,Am Kamin,"Klärchen, paß auf deine Kienäpfel!",0,0,5
+23,Am Kamin,Dem kleinen Peter träumte eines Nachts – –,1,0,8
+24,Am Kamin,Ach – – Träumen!,0,0,4
+25,Am Kamin,Was Träumen?,1,1,2
+26,Am Kamin,"Meine Damen, ich muß dringend bitten.",0,0,6
+27,Am Kamin,Soll ich an einer zurückgetretenen Spukgeschichte ersticken?,0,1,7
+28,Am Kamin,Das ist keine Spukgeschichte;,0,0,4
+29,Am Kamin,Träumen ist nicht Spuken.,0,0,4
+30,Am Kamin,"Halt den Mund, liebes Klärchen!",0,0,5
+31,Am Kamin,Wo war ich denn?,0,1,4
+32,Am Kamin,Du warst noch nicht weit.,0,0,5
+33,Am Kamin,Sßt! ,0,0,1
+34,Am Kamin,"Der Vater erwachte eines Nachts-still, Klärchen! von dem ängstlichen Geschrei des Jungen, welcher neben seinem Bette schlief.",1,0,17
+35,Am Kamin,"Er nahm ihn zu sich und suchte ihn zu ermuntern, aber das Kind war gar nicht zu beruhigen.",1,0,18
+36,Am Kamin,"›Was fehlt dir, Junge?‹",1,1,4
+37,Am Kamin,"›Es war ein großer Wolf da, er war hinter mir, er wollte mich fressen.‹ ",0,0,14
+38,Am Kamin,"›Du träumst ja, mein Kind!‹",0,0,5
+39,Am Kamin,"›Nein, nein, Papa, es war ein wirklicher Wolf; ",1,0,8
+40,Am Kamin,seine rauhen Haare sind an mein Gesicht gekommen.‹ ,1,0,8
+41,Am Kamin,r begrub den Kopf an seines Vaters Brust und wollte nicht wieder in sein Korbbettchen zurück.,0,0,16
+42,Am Kamin,So schlief er endlich ein. ,0,0,5
+43,Am Kamin,Draußen vom Turme hörte der Doktor nach einiger Zeit eins schlagen.,0,0,11
+44,Am Kamin,"Im Hause des Arztes lebte eine ältliche Schwester desselben, welche den kleinen Peter ganz besonders in ihr Herz geschlossen hatte.",0,0,20
+45,Am Kamin,"Es war eigentlich eine Range, der Junge, in einer Abendgesellschaft bei seinen Eltern hatte er uns einmal alle Sardellen von den Butterbröten weggefressen. ",0,0,23
+46,Am Kamin,"Aber das tat der Liebe der Tante keinen Eintrag.
+",0,0,9
+47,Am Kamin,"Am andern Morgen, als der Doktor aus seinem Schlafzimmer trat, war sie die erste, die ihm begegnete.",0,0,17
+48,Am Kamin,"›Denke dir, Karl, was mir geträumt hat!‹",1,0,7
+49,Am Kamin,›Nun?‹,1,1,1
+50,Am Kamin,›Ich hatte mich in einen Wolf verwandelt und wollte den kleinen Peter fressen;,1,0,13
+51,Am Kamin," ich trabte auf allen vieren, während der Junge schreiend vor mir herlief.‹",1,0,12
+52,Am Kamin,›Hu!,1,0,1
+53,Am Kamin,"Weißt du nicht, wieviel Uhr es gewesen?‹ ",1,1,7
+54,Am Kamin,›Es muß nach Mitternacht gewesen sein;,1,0,6
+55,Am Kamin,genauer kann ich es nicht bestimmen,1,0,6
+56,Am Kamin,"Nun, und weiter, alter Herr?",0,1,5
+57,Am Kamin,Nichts weiter; damit ist die Geschichte aus.,0,0,7
+58,Am Kamin,Pfui!,0,0,1
+59,Am Kamin,Die Tante ist ein Werwolf gewesen!,0,0,6
+60,Am Kamin,"Ich kann versichern, daß sie eine vortreffliche Dame war.",0,0,9
+61,Am Kamin,"Aber, Klärchen, log einmal Kienäpfel auf!",0,0,6
+62,Am Kamin,Ja – aber Träumen ist doch nicht Spuken –,0,0,9
+63,Am Kamin,Ärgere den alten Herrn nicht!,0,0,5
+64,Am Kamin,"Siehst du, ich weiß besser mit ihm umzugehen. ",0,0,8
+65,Am Kamin,"Da erscheint der Trank, bei dem der selige Hoffmann seine Serapionsgeschichten erzählte.",0,0,12
+66,Am Kamin,"Setzen Sie die Bowle vor den Kamin, Martin!",0,0,8
+67,Am Kamin,"Es ist auch eine halbe Flasche Maraschino dazu, alter Herr!",0,0,10
+68,Am Kamin,"Ich küsse Ihnen die Hand, gnädige Frau.",0,0,7
+69,Am Kamin,Das verstehen Sie ja gar nicht!,0,0,6
+70,Am Kamin,Ich kann das eigentlich nicht bestreiten.,0,0,6
+71,Am Kamin,In meiner Heimat tut man nicht dergleichen;,0,0,7
+72,Am Kamin,"indessen, ich beginne wenigstens schon davon zu reden.",0,0,8
+73,Am Kamin,Trinken Sie lieber einmal! ,0,0,4
+74,Am Kamin,"Klärchen, damit du was zu tun hast, schenk einmal die Gläser voll!",0,0,12
+75,Am Kamin,"Ich weiß nicht, meine Damen, ob Sie jemals durch die Marsch gefahren sind!",0,0,13
+76,Am Kamin,Im Herbst und bei Regenwetter will ich es Ihnen nicht gewünscht haben;,0,0,12
+77,Am Kamin,"in trockner Sommerzeit aber kann es keinen besseren Weg geben, der feine graue Ton, aus welchem der Boden besteht, ist dann fest und eben, und der Wagen geht sanft und leicht darüber hin.",0,0,33
+78,Am Kamin,"Vor einigen Jahren führten mich Geschäfte nach der kleinen Stadt T. im nördlichen Schleswig, welche mitten in der nach ihr benannten Marsch liegt.",0,0,23
+79,Am Kamin,Am Abend war ich in der Familie des dortigen Landschreibers.,0,0,10
+80,Am Kamin,"Nach dem Essen, als die Zigarren angezündet waren, gerieten wir unversehens in die Spukgeschichten, was dort eben nicht schwer ist;",0,0,20
+81,Am Kamin,denn die alte Stadt ist ein wahres Gespensternest und noch voll von Heidenglauben.,1,0,13
+82,Am Kamin,"Nicht allein, daß allezeit ein Storch auf dem Kirchturm steht, wenn ein Ratsherr sterben soll;",1,0,15
+83,Am Kamin,"es geht auch nachts ein altes glasäugiges dreibeiniges Pferd durch die Straßen, und wo es stehenbleibt und in die Fenster guckt, wird bald ein Sarg herausgetragen. ",1,0,26
+84,Am Kamin,"»De Hel« nennen es die Leute, ohne zu ahnen, daß es das Roß ihrer alten Todesgöttin ist, welche selbst zugunsten des Klapperbeins seit lange den Dienst hat quittieren müssen.",1,0,29
+85,Am Kamin,Von den mancherlei derartigen Gesprächen und Erzählungen jenes Abends ist mir indessen nur eine einfache Geschichte im Gedächtnis geblieben.,1,0,19
+86,Am Kamin,"»Es war vor etwa zehn Jahren« – so erzählte unser Wirt –, »als ich mit einem jungen Kaufmann und einigen anderen Bekannten eine Lustfahrt nach einem Hofe machte, welcher dem Vater des ersteren gehörte und durch einen sogenannten Hofmann verwaltet wurde. ",0,0,41
+87,Am Kamin,Es war das schönste Sommerwetter;,0,0,5
+88,Am Kamin,"das Gras auf den Fennen funkelte nur so in der Sonne, und die Stare mit ihrem lustigen Geschrei flogen in ganzen Scharen zwischen dem weidenden Vieh umher.",0,0,27
+89,Am Kamin,"Die Gesellschaft im Wagen, der sanft über den ebenen Marschweg dahinrollte, befand sich in der heitersten Laune;",0,0,17
+90,Am Kamin,niemand mehr als unser junger kaufmännischer Freund. ,0,0,7
+91,Am Kamin,"Plötzlich aber, als wir eben an einem blühenden Rapsfelde vorüberfuhren, verstummte er mitten im lebhaftesten Gespräch, und seine Augen nahmen einen so seltsamen glasigen Ausdruck an, wie ich ihn nie zuvor an einem lebenden Menschen gesehen hatte.",1,0,37
+92,Am Kamin,"Ich, der ich ihm gegenübersaß, ergriff seinen Arm und schüttelte ihn.",1,0,11
+93,Am Kamin,"›Fritz, Fritz, was fehlt dir?‹ fragte ich.",1,1,7
+94,Am Kamin,Er atmete tief auf;,1,0,4
+95,Am Kamin,"dann sagte er, ohne mich anzusehen: ",1,0,6
+96,Am Kamin,›Das war mal eine schlimme Stelle!‹,1,0,6
+97,Am Kamin,›Eine schlimme Stelle?,1,1,3
+98,Am Kamin,Es geht ja wie auf der Diele!‹,1,0,7
+99,Am Kamin,"›Ja‹, entgegnete er, noch immer wie im Traum, ›es war doch nicht gut darüber wegzukommen.‹",1,0,15
+100,Am Kamin,"Allmählich ermunterte er sich, und sein Gesicht erhielt wieder Leben und Ausdruck;",0,0,12
+101,Am Kamin,aber er wußte auf unsre Fragen keine andre Antwort zu geben.,0,0,11
+102,Am Kamin,"Dieses kleine Ereignis, was allerdings für den Augenblick die Stimmung etwas herabdrückte, war indessen, nachdem wir den Hof erreicht hatten, durch die Heiterkeit der Umgebung und unsre eigne Jugend bald vergessen.",0,0,31
+103,Am Kamin,"Wir ließen uns durch die alte Wirtschafterin den Kaffee in der Gartenlaube anrichten, wir gingen auf die Fennen, um die Ochsen zu besehen, und nachdem abends die mitgebrachten Flaschen in Gesellschaft des alten Hofmannes geleert waren, fuhren wir alle vergnügt, wie wir ausgefahren waren, wieder heim.",0,0,46
+104,Am Kamin,Acht Tage später war unser Freund des Nachmittags im Auftrage seines Vaters nach dem Hofe hinausgeritten.,0,0,16
+105,Am Kamin,Am Abend kam sein Pferd allein zurück.,1,0,7
+106,Am Kamin,"Der alte Herr, der eben aus seinem L'hombre-Klub nach Hause gekommen war, machte sich sogleich mit allen seinen Leuten auf, um nach seinem einzigen Sohn zu suchen.",1,0,27
+107,Am Kamin,"Als sie mit ihren Handlaternen an jenes blühende Rapsfeld kamen, fanden sie ihn tot am Wege liegen.",1,0,17
+108,Am Kamin,"Was die Ursache seines Todes gewesen, vermag ich nicht mehr anzugeben.",1,0,11
+109,Am Kamin,"Und geht es noch so rüstig
+Hin über Stein und Steg,
+Es ist eine Stelle im Wege,
+Du kommst darüber nicht weg.",0,0,22
+110,Am Kamin,Aha!,0,0,1
+111,Am Kamin,Unser poetischer Freund improvisiert.,0,0,4
+112,Am Kamin,"Das nicht, Herr Assessor;",0,0,4
+113,Am Kamin,der Vers ist schon gedruckt.,0,0,5
+114,Am Kamin,Aber Klärchen scheint wieder mit meiner Geschichte nicht zufrieden zu sein;,0,0,11
+115,Am Kamin,sie rührt mir gar zu ungeduldig in der Bowle.,0,0,9
+116,Am Kamin,Ich?,0,1,1
+117,Am Kamin,Da hast du ein Glas Punsch! ,0,0,6
+118,Am Kamin,Ich sage schon gar nichts mehr.,0,0,6
+119,Am Kamin,"Nun, so höre!",0,0,3
+120,Am Kamin,Mein Barbier – von dem hab ich diese Geschichte – ist der Sohn eines Tuchmachers.,0,0,15
+121,Am Kamin,"Als der Vater noch jung war, kam er eines Abends auf seiner Gesellenwanderung in eine kleine schlesische Stadt.",0,0,18
+122,Am Kamin,"Auf der Herberge erfuhr er, daß er bei einem der ältesten Meister in Arbeit treten könne.",0,0,16
+123,Am Kamin,"»Will nur hoffen, daß es mit dir Bestand haben wird«, setzte der Herbergswirt hinzu.",0,0,14
+124,Am Kamin,"»Mit Gunst, Herr Vater«, entgegnete der Gesell, »traut Ihr mir nicht, oder fehlt's da wo im Hause bei den Meistersleuten?«",0,1,20
+125,Am Kamin,Der Wirt schüttelte den Kopf.,0,0,5
+126,Am Kamin,"»Was denn aber, Herr Vater?«",0,1,5
+127,Am Kamin,"Es ist nur«, sagte der Alte, »seit die da drei Gesellen haben wollen, ist der dritte nach Monatsfrist allzeit wieder fremd geworden.«",0,0,22
+128,Am Kamin,"Unser Geselle ließ sich das nicht anfechten, sondern ging noch an demselben Abend zu seinem neuen Meister.",0,0,17
+129,Am Kamin,"Er fand ein paar alte Leute, die ihn freundlich ansprachen, und zur Stärkung nach der Wanderung ein solides bürgerliches Abendbrot.",0,0,20
+130,Am Kamin,"Als es Schlafenszeit war, führte der Meister ihn selbst durch einen langen Gang des Hintergebäudes in das obere Stockwerk und wies ihm dort seine Schlafkammer an.",0,0,26
+131,Am Kamin,Der Gelaß für die beiden andern Gesellen befinde sich unten; es sei aber darin nicht Platz für ein drittes Bett.,0,0,20
+132,Am Kamin,"Als der Meister ihm gute Nacht gewünscht, stand der junge Mann noch einen Augenblick und horchte, wie sich die Schritte des Alten über die Treppe hinab entfernten und dann unten in dem langen Gange allmählich verloren.",0,0,36
+133,Am Kamin,Hierauf besah er sich sein neues Quartier.,0,0,7
+134,Am Kamin,"Es war eine lange, äußerst schmale Kammer mit kahlen weißen Wänden; unten, die ganze Breite der Querwand einnehmend, stand das Bett; da neben ein kleiner Tisch und ein kleiner Stuhl aus Föhrenholz; das war die ganze Ausstattung.",0,0,37
+135,Am Kamin,"Das einzige, sehr hohe Fenster mit kleinen, in Blei gefaßten Scheiben schien, soviel er bei dem Mondschein draußen erkennen konnte, nach einem großen Garten hinaus zu liegen.",0,0,27
+136,Am Kamin,"Aber er hatte das alles mit schon träumenden Augen angesehen, und nachdem er sich unter das derbe Deckbett gestreckt und das Licht ausgelöscht hatte, fiel er bald in einen tiefen Schlaf.",0,0,31
+137,Am Kamin,"Wie lange derselbe gedauert, konnte er später nicht angeben;",0,0,9
+138,Am Kamin,"er wußte nur, daß er durch ein Geräusch, das mit ihm in der Kammer war, auf eine jähe Art erweckt worden sei.",1,0,22
+139,Am Kamin,"Und bald hörte er deutlich ein Kehren wie mit einem scharfen Reisbesen, das von der Richtung des Fensters her allmählich sich nach der Tiefe der Kammer zu bewegte.",1,0,28
+140,Am Kamin,Er richtete sich auf und blickte mit aufgerissenen Augen vor sich hin;,1,0,12
+141,Am Kamin,die Kammer war fast hell vom Mondschein;,1,0,7
+142,Am Kamin,die eine Wand war ganz davon beleuchtet;,1,0,7
+143,Am Kamin,aber er vermochte nichts zu sehen als den völlig leeren Raum.,1,0,11
+144,Am Kamin,"Plötzlich, und ehe es noch ganz in seine Nähe gekommen, war alles wieder still.",1,0,14
+145,Am Kamin,Er horchte noch eine Weile und suchte sich vergebens einen Vers darauf zu machen;,1,0,14
+146,Am Kamin,"endlich, ermüdet wie er war, fiel er aufs neue in einen festen Schlaf.",0,0,13
+147,Am Kamin,"Am andern Morgen, als zwischen ihm und dem Meister die Sache zur Sprache kam, erfuhr er von diesem, daß allerdings einzelne, welche vor ihm in der Kammer geschlafen, ein Ähnliches dort gehört haben wollten;",1,0,34
+148,Am Kamin,es sei indes immer nur zur Zeit des Vollmonds gewesen und übrigens niemandem etwas dadurch zu nahe geschehen. ,0,0,18
+149,Am Kamin,Der junge Tuchmacher ließ sich beruhigen;,0,0,6
+150,Am Kamin,"und in den Nächten, die nun folgten, wurde auch sein Schlaf durch nichts gestört.",0,0,14
+151,Am Kamin,Dabei ging ihm im Hause alles nach Wunsch;,0,0,8
+152,Am Kamin,"Arbeit und Verdienst war regulär, und auch mit seinen beiden Nebengesellen hatte er sich auf guten Fuß gestellt.",0,0,18
+153,Am Kamin,"So ging ein Tag nach dem andern hin, bis endlich wieder die Zeit des Vollmonds herangekommen war.",1,0,17
+154,Am Kamin,"Aber er hatte nicht darauf geachtet, denn es war schwere, bedeckte Luft, und kein Schein fiel in die Kammer, als er sich am Abend schlafen legte.",1,0,26
+155,Am Kamin,Da plötzlich erweckte ihn wieder jener schon halbvergessene Ton. ,1,0,9
+156,Am Kamin,"Eifriger noch und schärfer, so dünkte es ihn, als das erstemal kehrte und fegte es bei ihm in der Kammer, und seltsamerweise, jetzt, wo es fast dunkel war, meinte er gegen das Fenster hin einen sich bewegenden Schatten zu sehen.",1,0,40
+157,Am Kamin,"Aber, wie zuerst, wurde auch jetzt nach einer Weile alles wieder still, ohne daß es sein Bett erreicht oder daß er etwas Genaueres zu erkennen vermocht hätte.",1,0,27
+158,Am Kamin,Er konnte indessen diesmal den Schlaf so bald nicht wiederfinden und hörte vom Kirchturm eine Stunde nach der andern schlagen;,1,0,20
+159,Am Kamin,"endlich brach draußen der Mond durch die Wolken und schien in die Kammer, aber er beleuchtete nur die nackten Wände.",1,0,20
+160,Am Kamin,"Der Gesell, so wenig angenehm ihm diese Dinge waren, beschloß bei sich, gegen jedermann zu schweigen, am wenigsten aber sich von jenem Unheimlichen vom Platze verdrängen zu lassen.",0,0,28
+161,Am Kamin,Wie gewöhnlich gingen auch die nun folgenden Nächte ohne Störung vorüber.,0,0,11
+162,Am Kamin,"Nach Verlauf eines Monats kehrte er spät in der Nacht von einem benachbarten Orte zurück, wohin ihn sein Meister mit einem Geschäftsauftrage gesandt hatte.",0,0,24
+163,Am Kamin,"Er ging, als die Stadt erreicht war, nicht durch die Straßen, sondern an der Stadtmauer entlang, um durch den Garten in das Hinterhaus zu gelangen, wozu er den Schlüssel von seinem Meister erhalten hatte.",0,0,34
+164,Am Kamin,Es war heller Mondschein.,1,0,4
+165,Am Kamin,"Schon in der Nähe des Hauses, während er zwischen den Rabatten auf dem geraden Steige des Gartens entlangging, warf er zufällig einen Blick nach dem Fenster seiner Kammer hinauf.",1,0,29
+166,Am Kamin,"Da saß oben ein Ding, ungestaltig und molkig, und guckte durch die Scheiben in den Garten hinab.
+",1,0,17
+167,Am Kamin,"Der junge Mann verlor plötzlich die Lust, mit solcher Gesellschaft noch länger in Quartier zu liegen.",0,0,16
+168,Am Kamin,Er kehrte um und suchte sich für diese Nacht ein Unterkommen in der Herberge.,0,0,14
+169,Am Kamin,"Am andern Morgen aber – so erzählte mir sein Sohn – nahm er seinen Abschied und verließ die Stadt, ohne jemals erfahren zu haben, womit er so lange in einer Kammer gehaust habe.",0,0,33
+170,Am Kamin,Kann ich mir auch nichts bei denken.,0,0,7
+171,Am Kamin,"Geht mir ebenso, alter Herr.",0,0,5
+172,Am Kamin,"Ich dächte doch, das wäre eine echte rechte Spukgeschichte; oder was fehlt denn noch daran?",0,1,15
+173,Am Kamin,Sie hat keine Pointe.,0,0,4
+174,Am Kamin,So?,0,1,1
+175,Am Kamin,"Aber ein Teil dieser Geschichten tritt eben mit dem Reiz des Rätsels an uns heran und drängt uns, den Dingen nachzuspüren, die, wenngleich selber längst vergangen, noch solche Schatten aus dem leeren Raume fallen lassen.",0,0,35
+176,Am Kamin,"Nun, und Ihre Geschichte?",0,1,4
+177,Am Kamin,"Will ich ganz dem Scharfsinn der Damen überlassen und Ihnen lieber etwas anderes erzählen, wo ein solcher Zusammenhang sich von selbst ergibt, indem der Reflex der Begebenheit mit dieser selbst scheinbar in einen Moment zusammenfällt.",0,0,35
+178,Am Kamin,"Auf dem Gymnasium zu H. hatte ich einen Schulkameraden, einen fleißigen und geschickten Menschen, mit welchem ich, da er in meiner Nachbarschaft wohnte, in fast täglichem Verkehr lebte.",0,0,28
+179,Am Kamin,"Als er eben in Sekunda eingetreten war, starb der Vater, welcher ein kleines städtisches Amt bekleidet hatte, und hinterließ Sohn und Witwe in den bedrängtesten Umständen.",0,0,26
+180,Am Kamin,"Mit Hülfe von Stipendien, deren es dort viele gab, hätte mein Freund dessenungeachtet wohl seinen Plan, die Rechte zu studieren, durchführen können;",0,0,22
+181,Am Kamin,"aber der lebhafte Wunsch, schon jetzt etwas zu verdienen und dadurch die letzten Jahre seiner alternden Mutter zu erleichtern, veranlaßte ihn, vom Gymnasium abzugehen und auf dem dortigen Amtshause als Lohnschreiber einzutreten.",0,0,32
+182,Am Kamin,Unser Umgang wurde dadurch nicht unterbrochen;,0,0,6
+183,Am Kamin,"wir machten wie sonst des Mittags unsern gemeinschaftlichen Spaziergang, und abends, wenn er aus seiner Kanzlei nach Hause gekommen war, saßen wir in dem von ihm und seiner Mutter gemeinschaftlich bewohnten Zimmer und nahmen miteinander die Lektionen durch, welche am folgenden Tage in der Schule vorkommen sollten;",0,0,47
+184,Am Kamin,"denn er hatte seine Lebenspläne keineswegs gänzlich aufgegeben, und wo der Abend nicht reichte, nahm er unbedenklich die Nacht zu Hülfe.",0,0,21
+185,Am Kamin,So habe ich manche Stunde dort verbracht in gemeinsamer Arbeit oder in gemütlichem Gespräch.,0,0,14
+186,Am Kamin,Die Mutter pflegte mit ihrem Strickzeug neben uns vor der kleinen Lampe zu sitzen.,0,0,14
+187,Am Kamin,"Ich sehe noch das stille, etwas kränkliche Gesicht, wenn sie mitunter von der Arbeit aufblickte und mit einem Ausdruck der Sorge und der zärtlichsten Verehrung die Augen auf ihrem einzigen Kinde ruhen ließ.",0,0,33
+188,Am Kamin,"Er nahm dann wohl, wenn er es bemerkte, ihre blasse Hand und hielt sie fest in der seinigen, während er in dem vor ihm liegenden Buche weiterlas.",0,0,27
+189,Am Kamin,"Aber es ging dann nicht wie sonst, es war, als wenn die Zärtlichkeit für seine Mutter ihm die Gedanken zerstreute, und ich erinnere mich noch, wie ihm bei solchem Anlaß plötzlich die Tränen aus den Augen sprangen und er dann mit einem Lächeln und einem kurzen Blick auf sie ihre Hand sanft in ihren Schoß zurücklegte.",0,0,56
+190,Am Kamin,"Es war eine Luft des Friedens und der Stille in diesem Zimmer, wie ich sie nirgend sonst empfunden habe.",0,0,19
+191,Am Kamin,"An der einen Wand stand ein altes dürftiges Klavier; mitunter sangen wir daran; dann legte die alte Frau ihr Strickzeug in den Schoß, und war es zufällig eine Melodie aus ihrer Jugend, so stand sie auch wohl auf und ging mit unhörbaren Schritten und leise vor sich hinsummend im Zimmer auf und ab.",0,0,53
+192,Am Kamin,"Wenn es aber an der Wand auf der kleinen Schwarzwälder Uhr zehn geschlagen hatte, begann sie allmählich einen unruhigen Blick auf die große dunkle Gardinenbettstelle zu werfen, die im Hintergrunde des geräumigen Zimmers stand.",0,0,34
+193,Am Kamin,"Dann nahmen wir unsre Bücher, sagten ihr gute Nacht und gingen eine Treppe tiefer in die kleine Schlafkammer ihres Sohnes, wo wir noch einige Stunden unsre Studien fortzusetzen pflegten.",0,0,29
+194,Am Kamin,"Sie mochte dann schon ruhig in dem oberen Zimmer schlummern; denn es lag nach einem inneren Hofe, wo die nächtliche Ruhe durch nichts gestört wurde.",0,0,25
+195,Am Kamin,Aber dieses Leben mit seinem bescheidenen Glücke sollte nach einigen Jahren sein Ende erreichen.,0,0,14
+196,Am Kamin,Kurz vor meinem Abgang zur Universität erkrankte die Mutter.,0,0,9
+197,Am Kamin,"Es war der Keim des Todes, der lange schon in ihr gelegen und nun zur Entfaltung kam;",0,0,17
+198,Am Kamin,weder sie noch ihr Sohn verkannten das.,0,0,7
+199,Am Kamin,"Auf ihren Wunsch besuchte ich sie noch einmal, ehe ich abreiste.",0,0,11
+200,Am Kamin,"Das sonst so freundliche Zimmer war jetzt düster und öde, die Fenster tief verhangen, und aus den Kissen unter dem dunklen Betthimmel sah das leidende Gesicht der guten Frau.",1,0,29
+201,Am Kamin,"Während ihre magere Hand die meinige ergriff, sagte sie nur: »So leben Sie denn recht wohl!«",1,0,16
+202,Am Kamin,"Aber wir fühlten beide, daß das ein Abschied für das Leben sei.",1,0,12
+203,Am Kamin,"Was nun folgt, habe ich später aus dem Munde meines Freundes gehört; denn ich selbst verließ schon am Tage darauf die Stadt.",0,0,22
+204,Am Kamin,"Er hatte sich, als die Schwäche der Mutter plötzlich in ungewöhnlicher Art zugenommen, die Erlaubnis ausgewirkt, seine Arbeiten im Hause zu fertigen, und saß nun im Krankenzimmer an dem entlegensten Fenster, von dem er ein wenig die Gardine zurückgeschlagen, bald emsig schreibend, bald einen sorglichen Blick nach den dunklen Vorhängen des Bettes hinüberwerfend.",0,0,53
+205,Am Kamin,"Wenn die Mutter wachte, saß er in dem alten Lehnstuhl vor ihrem Bett und sprach leise zu ihr oder las ihr aus der Bibel vor; oder er war nur bei ihr, daß ihre Augen zärtlich auf ihm ruhen konnten.",0,0,39
+206,Am Kamin,"Dort blieb er auch des Nachts sitzen, und wenn die Kranke im Anschauen seines blassen, überwachten Antlitzes ihn bat: »Georg, leg dich schlafen! Georg, du hältst es ja nicht aus!« oder wenn sie ihm versicherte: »Geh nur; gewiß, es hat heut nacht noch nicht Gefahr«, so faßte er nur um so fester die heiße Hand der Mutter, als müsse sie gerade jetzt, wenn er sich entfernen wollte, ihm entrissen werden.",0,0,70
+207,Am Kamin,"Eines Nachts aber, da eine Linderung der Schmerzen eingetreten war und da er sich kaum mehr aufrecht zu erhalten vermochte, hatte er sich dennoch überreden lassen.",0,0,26
+208,Am Kamin,"Unten in seiner Kammer lag er unausgekleidet auf seinem Bette; traumlos, in tiefem, bleiernem Schlaf.",0,0,15
+209,Am Kamin,Oben beim Schein der Nachtlampe in sanftem Schlummer hatte er die Mutter zurückgelassen.,0,0,13
+210,Am Kamin,"Währenddes verging die Nacht, und der Tag fing eben an zu grauen, da wurde er plötzlich wie mit sanfter Gewalt aus dem Schlaf emporgezogen.",1,0,24
+211,Am Kamin,"Als er aufblickte, sah er die Tür der Kammer geöffnet und eine Hand, die mit einem weißen Tuch zu ihm hereinwehte.",1,0,21
+212,Am Kamin,Unwillkürlich sprang er vom Bett auf;,1,0,6
+213,Am Kamin,"aber er hatte sich geirrt, die Tür seiner Kammer war eingeklinkt, wie er in der Nacht sie aus der Hand gelassen.",1,0,21
+214,Am Kamin,Fast ohne Gedanken ging er die Treppe zu dem Krankenzimmer hinauf.,1,0,11
+215,Am Kamin,"Es war still drinnen, die Nachtlampe war herabgebrannt, und unter dem dunklen Betthimmel fand er beim trüben Schein der Dämmerung die Leiche seiner Mutter.",1,0,24
+216,Am Kamin,"Als er sich bückte, um die Hand der Toten an seinen Mund zu drücken, die über den Rand des Bettes herabhing, faßte er zugleich ihr weißes Schnupftuch, das sie zwischen den geschlossenen Fingern hielt.",1,0,34
+217,Am Kamin,Und Ihr Freund?,1,1,3
+218,Am Kamin,Wie ist es dem ergangen?,1,1,5
+219,Am Kamin,"Es ist ihm gut ergangen; denn er hat nach mancher Not und schweren Arbeit seinen Lebensplan verwirklicht; und er lebt noch jetzt wie unter den Augen und in der Gegenwart seiner Mutter; ihre Liebe, die sie so ohne Rückhalt ihm im Leben gab, ist ihm ein Kapital geworden, das auch in den schwersten Stunden ihn nicht hat darben lassen.",0,0,59
+220,Am Kamin,"Aber Klärchen, was hältst du denn die Hände vor den Augen?",0,1,11
+221,Am Kamin,Oh – mir graut nicht.,0,0,5
+222,Am Kamin,Aber du weinst ja!,0,0,4
+223,Am Kamin,Ich?,0,1,1
+224,Am Kamin,Warum erzählst du auch so dumme Geschichten!,0,0,7
+225,Am Kamin,Nun!,0,0,1
+226,Am Kamin,So mag es denn die letzte sein;,0,0,7
+227,Am Kamin,ich wüßte für heute auch nichts Besseres zu erzählen.,0,0,9
+228,Am Kamin,"Aber es ist noch einmal wieder Sommer geworden, alter Herr!",0,0,10
+229,Am Kamin,Wo bleiben da unsre Geschichten?,0,1,5
+230,Am Kamin,Ein Kaminfeuer läßt sich doch bei sechzehn Grad Wärme nicht anzünden!,0,0,11
+231,Am Kamin,"Gnädige Frau, wenn es auch wetterleuchtet draußen, wir sind immerhin schon dicht an den November.",0,0,15
+232,Am Kamin,"Der Teetisch tut es auch für heute; lassen Sie nur den Kessel sausen, ich meinerseits bin mit dem Akkompagnement zufrieden.",0,0,20
+233,Am Kamin,Freilich –,0,0,2
+234,Am Kamin,Was denn freilich?,0,1,3
+235,Am Kamin,"Wenn der Teekessel ein Vertreter des häuslichen Herdes sein soll, so muß er unbedingt auf einem Kohlenbecken kochen; und zwar auf Torfkohlen, gehörig durchgeglühten.",0,0,24
+236,Am Kamin,Das hält auch besser Dauer als jene ungemütliche Maschinerie.,0,0,9
+237,Am Kamin,"Nun, alter Herr, es soll mir auf ein Kännchen Sprit nicht ankommen!",0,0,12
+238,Am Kamin,Bleibt aber doch immerhin die Apothekerflamme der Berzeliuslampe!,0,0,8
+239,Am Kamin,"Indessen, da es hierorts weder einen Torf noch einen Teekomfort gibt – Sie kennen das Ding wohl nicht einmal? –, so akzeptiere ich das Kännchen Sprit.",0,1,26
+240,Am Kamin,"Nun, so tun Sie Ihre Mauskiste auf.",0,0,7
+241,Am Kamin,Was haben Sie zu erzählen?,0,1,5
+242,Am Kamin,"Ich habe heute, da ich an einem neueröffneten Putzladen vorbeiging, lebhaft einer alten Freundin in der Heimat gedenken müssen.",0,0,19
+243,Am Kamin,"Sie war die Tochter eines Handwerkers aus einem Nachbarstädtchen und wohnte längere Zeit in einem meinen Eltern gehörigen Häuschen, dessen Hof an den Garten unsres Wohnhauses grenzte.",0,0,27
+244,Am Kamin,"Sehr gegen ihre Neigung suchte sie ihren Unterhalt durch Putzarbeiten zu erwerben, die sie für die weibliche Bevölkerung der Umgegend verfertigte.",0,0,21
+245,Am Kamin,"Auch verhehlte sie sich keineswegs, daß ihr die Sache ziemlich übel von der Hand ging;",0,0,15
+246,Am Kamin,"und wenn sie nur irgend Feierabend machen konnte, schloß sie die verhaßte Arbeit in die Kommodenschublade und nahm statt dessen eins ihrer geliebten Bücher zur Hand, oder sie griff auch wohl selbst zur Feder und brachte eine kleine Geschichte oder irgendeinen sinnigen Gedanken zu Papier.",0,0,45
+247,Am Kamin,"Die Beschränktheit ihrer Lebensverhältnisse, verbunden mit dem Drang, allerlei feingeistige Nahrung zu sich zu nehmen – denn Rahels Briefe waren ihre Lieblingskost –, hatten eine seltsame, aber nicht uninteressante Auffassung der Dinge bei ihr hervorgebracht; und wir haben über das Gartenstaket hinweg manch kurzweiliges Plauderstündchen miteinander abgehalten.",0,0,47
+248,Am Kamin,Hans!,0,0,1
+249,Am Kamin,"Was denn, Frau?",0,1,3
+250,Am Kamin,Du verdunkelst da etwas.,0,0,4
+251,Am Kamin,Durch jenes Häuschen führte ein Richtweg nach der Hauptstraße; und neben dem Wege war das Stübchen der Putzmacherin.,0,0,18
+252,Am Kamin,"Gesteh es nur, Hans;",0,0,4
+253,Am Kamin,"Aber, meine Damen, meine Freundin war keineswegs eine Sandsche Geneviève, sondern eine gesetzte, hagere Person von fünfundvierzig Jahren!",0,0,18
+254,Am Kamin,"Aber sie hatte noch sehr blanke, braune Augen, Hans, und die lebhafte Röte ihres Angesichts zeugte von der Erregbarkeit ihres Herzens, und wenn sie mir damals auch in gewählten Worten ihre Freude über unsre Verlobung aussprach, weil der böse Leumund die Besuche des jungen Mannes nun nicht mehr mißdeuten könnte, so habe ich doch darin das verhüllte Bekenntnis gegenseitiger Neigung nicht verkennen können.",0,0,63
+255,Am Kamin,Ich will unsre beiderseitige Zuneigung keineswegs herabsetzen.,0,0,7
+256,Am Kamin,"Jene Äußerung meiner Freundin aber dürfte wohl nur von einer übermäßigen Jungfräulichkeit herrühren, wie sie durch ein zu langes Verweilen im ledigen Stande mitunter hervorgetrieben wird.",0,0,26
+257,Am Kamin,"Denn als sie später dennoch sich verheiratete und zum Erstaunen der Welt eines tüchtigen Knaben genas, hat sie sich anfänglich nicht überwinden können, den Jungen an die Brust zu legen, weil, wie sie sich ausdrückte, das Kind andern Geschlechts sei.",0,0,40
+258,Am Kamin,Hans!,0,0,1
+259,Am Kamin,Du lügst ja;,0,0,3
+260,Am Kamin,sie hat sich ja gar nicht verheiratet.,0,0,7
+261,Am Kamin,Nicht?,0,1,1
+262,Am Kamin,"Nun, da verwechsle ich die Geschichte.",0,0,6
+263,Am Kamin,"Sei dem, wie ihm wolle, diese meine Freundin, der ich ein treues Gedächtnis bewahre, war im Heimlichen wie im Unheimlichen sehr zu Hause.",0,0,23
+264,Am Kamin,"Von ihren mancherlei Geschichten ist mir indessen – verzeih, Klärchen! – nur ein Traum im Gedächtnis geblieben!",0,0,17
+265,Am Kamin,"Es existierte – so erzählte sie mir –, vorzeiten in unsrer Gegend eine reiche holländische Familie, welche allmählich fast alle großen Höfe in der Nähe meiner Vaterstadt in Besitz bekommen hatte – vorzeiten, sage ich; denn das Glück der van A... hatte nicht standgehalten.",0,0,44
+266,Am Kamin,"In meiner Kindheit lebte von der ganzen Familie nur noch eine alte Dame, die Witwe des längst verstorbenen Pfenningmeisters van A..., die übrigen Glieder der Familie waren gestorben, zum Teil auf seltsame und gewalttätige Weise ums Leben gekommen;",1,0,38
+267,Am Kamin,"und von den ungeheuren Besitzungen war nur noch ein altes Giebelhaus in der Stadt zurückgeblieben, in welchem die Letzte dieses Namens den Rest ihrer Tage in Einsamkeit verlebte.",0,0,28
+268,Am Kamin,"Ich habe sie damals oft gesehen, das schmale, scharfgeschnittene Gesicht von dem dichten Haubenstriche eingefaßt; aber wir Kinder hatten Scheu vor ihr, es lag etwas in ihren Augen, das uns erschreckte.",1,0,31
+269,Am Kamin,"Auch ging allerlei unheimliches Gerede, nicht allein über den Erwerb des Vermögens in früherer Zeit, sondern auch über die Mittel, durch welche der verstorbene Pfenningmeister den Ruin desselben aufzuhalten versucht habe.",1,0,31
+270,Am Kamin,"Ob es ein Mißbrauch seines Amtes oder was es sonst gewesen sein sollte, erinnere ich mich nicht mehr;",0,0,18
+271,Am Kamin,"wohl aber, daß man die überlebende Witwe als die eigentliche Urheberin davon betrachtete.",0,0,13
+272,Am Kamin,"Gleichwohl war es immer eine Art Fest für mich, wenn ich, wie dies wohl bei einer Bestellung für meine Eltern geschah, einige Minuten in ihrem hohen, mit altmodischen Seltsamkeiten angefüllten Zimmer verweilen durfte.",0,0,33
+273,Am Kamin,"Ich sehe sie noch vor mir, wie sie neben dem Glasschrank strack und steif in ihrem Lehnstuhl saß, zwischen Schriften und Rechnungsbüchern umhertastend oder ein großes Strickzeug mit ihren hageren Fingern bewegend.",1,0,32
+274,Am Kamin,"Nur einmal habe ich einen andern Menschen als ihre alte Magd bei ihr angetroffen; und die kurze Szene, von der ich damals Augenzeuge wurde, machte auf mich einen tiefen Eindruck, ohne daß ich mir über die Bedeutung derselben klarzuwerden vermocht hätte.",1,0,41
+275,Am Kamin,"Es war ein zerlumptes Weib aus der Stadt, das vor der alten Dame stand.",0,0,14
+276,Am Kamin,"Bei meinem Eintritt warf sie ihr einen harten Speziestaler vor die Füße und ging dann unter höhnenden, leidenschaftlichen Worten zur Tür hinaus.",0,0,22
+277,Am Kamin,"Die Frau van A..., die nichts darauf erwidert hatte, stand jetzt von ihrem Lehnstuhl auf und ging, ohne von mir Notiz zu nehmen, eine lange Weile im Zimmer auf und ab, indem sie die Hände umeinanderwand und halblaute klagende Worte hervorstieß.",1,0,41
+278,Am Kamin,"Plötzlich eines Morgens hieß es, daß sie gestorben sei, und schon am Nachmittag wußte ich mich in das Sterbehaus zu schleichen und betrachtete durch das Fenster der Stubentür mit einem aus Grauen und Neugier gemischten Gefühle das wachsbleiche Gesicht, das aus dem weißen Kissen der Alkovenbettstelle hervorragte.",1,0,47
+279,Am Kamin,Dann nach einigen Tagen kam die Begräbnisfeier;,1,0,7
+280,Am Kamin,"ich verspeiste mit großem Appetit die leckeren Butterkringel, die beim Leichenschmaus in der Nachbarschaft verteilt wurden, und sah von unsern Treppensteinen aus den mit schwarzem Tuch bezogenen Sarg aus dem alten Hause hinaus- und die lange Straße hinabtragen.",0,0,38
+281,Am Kamin,"Einige Wochen später träumte mir, daß ich in der Dämmerung auf unserm langen Hausflur spielte.",0,0,15
+282,Am Kamin,"Bei der immer stärker hereinbrechenden Dunkelheit überfiel mich mit einem Male ein Gefühl von Einsamkeit, und ich wollte eben in die Stube zu meiner Mutter gehen, als ich die Haustürglocke schellen und die alte Frau van A... hereintreten sah.",1,0,39
+283,Am Kamin,"Ich war mir vollständig bewußt, daß sie tot sei, und schlüpfte, da sie näher kam, nur kaum an ihr vorbei in die Wohnstube, wo meine Mutter eben das Licht angezündet hatte.",1,0,31
+284,Am Kamin,"Während ich zu ihr lief und mich an ihrer Schürze festhielt, bemerkte ich, daß die Verstorbene in eine bunte Nachtjacke und einen weißen wollenen Unterrock gekleidet war, wie ich sie in frühen Morgenstunden wohl mitunter gesehen hatte.",1,0,37
+285,Am Kamin,"Sie ging auf den kleinen, in die Wand gemauerten Beilegeofen zu und streichelte mit zitternden Händen die daran befindlichen Messingknöpfe; dabei wandte sie den Kopf zu meiner Mutter und sagte mit einer traurigen Stimme:",1,0,34
+286,Am Kamin,"Ach, Frau Nachbarin, darf ich mich wohl ein bißchen wärmen?",1,1,10
+287,Am Kamin,Mich friert so sehr!,1,0,4
+288,Am Kamin,"Und als sie leise vor sich hinseufzend noch eine Weile stehenblieb, bemerkte ich, daß unten der Saum ihres wollenen Rockes an mehreren Stellen angebrannt war.",1,0,25
+289,Am Kamin,"Wie der Traum ausgegangen, weiß ich nicht;",0,0,7
+290,Am Kamin,ich dachte am andern Morgen nicht eben lange daran und sagte auch niemandem davon.,0,0,14
+291,Am Kamin,Aber er erneuerte sich.,1,0,4
+292,Am Kamin,"Einige Nächte darauf träumt mir, daß ich abends wie gewöhnlich mit meiner Näharbeit neben meiner Mutter in der Stube sitze, da schellte es draußen an der Haustür.",0,0,27
+293,Am Kamin,"»Sieh zu, wer da ist!« sagte meine Mutter;",0,0,8
+294,Am Kamin,"und als ich die Tür öffne, um hinauszusehen, steht wieder die Frau van A... vor mir, in derselben Kleidung, wie ich sie das vorige Mal gesehen.",1,0,26
+295,Am Kamin,"Von dem entsetzlichsten Grauen befallen, springe ich zurück und krieche längs der Wand unter den großen Tisch, welcher in der Ecke am Fenster stand.",1,0,24
+296,Am Kamin,"Wie das erste Mal ging die Frau, leise vor sich hinjammernd, an den Ofen.",1,0,14
+297,Am Kamin,"»Mich friert, ach, wie mich friert!« sagte sie, und ich hörte deutlich, wie ihre Zähne aufeinanderschlugen.",1,0,16
+298,Am Kamin,"Bei dem Schein des auf dem Tische stehenden Lichtes bemerkte ich jetzt auch, daß sie bloße Füße hatte, aber seltsamerweise, es waren große Brandwunden an denselben, und auch der wollene Rock war heute weit mehr verbrannt als in der vorigen Nacht.",1,0,41
+299,Am Kamin,"Und dabei stand sie fortwährend und klammerte sich mit den Händen an den Ofen, nur mitunter einen Seufzer oder ein tiefes Stöhnen ausstoßend.",1,0,23
+300,Am Kamin,Der Traum wollte mich diesmal am Morgen nicht wieder verlassen.,1,0,10
+301,Am Kamin,"Während des Frühstücks duldete mein Vater nicht, daß irgend etwas Aufregendes oder Unangenehmes von uns vorgebracht wurde.",0,0,17
+302,Am Kamin,"Als aber später meine Mutter aufstand und in die Küche ging, folgte ich ihr und erzählte ihr dort genau, was mir in den beiden Nächten geträumt hatte.",0,0,27
+303,Am Kamin,"Ich sehe noch die Bestürzung, die sich während meiner Erzählung in ihrem Gesicht ausdrückte.",1,0,14
+304,Am Kamin,"Ich hatte kaum geendet, als sie die Hände über dem Kopf zusammenschlug und in ihrer plattdeutschen Mundart ausrief:",1,0,18
+305,Am Kamin,"Herr Gott im Himmel, ganz min egen Droom!",1,0,8
+306,Am Kamin,"Dann erzählte sie mir, wie sie in denselben Nächten im Traum genau dasselbe erlebt hatte wie ich.",1,0,17
+307,Am Kamin,Später hat sich indessen der Traum bei uns nicht wiederholt.,0,0,10
+308,Am Kamin,Woher ist die tote Frau gekommen?,0,1,6
+309,Am Kamin,Ich kann Ihnen hierauf leider keine Antwort geben.,0,0,8
+310,Am Kamin,"Aber zwei andre Fragen treten bei dieser Geschichte, an deren Wahrheit ich keinen Grund zu zweifeln habe, wenigstens an mich noch näher heran.",1,0,23
+311,Am Kamin,"War der eine Traum nur die Quelle des andern, wie das bei dem Wolfe so augenscheinlich der Fall zu sein scheint, oder gab es noch ein Drittes, worin dieselben ihren gemeinsamen Ursprung hatten?",1,1,33
+312,Am Kamin,"Lassen Sie mich Ihnen indessen sogleich noch einen andern Vorfall erzählen.
+",0,0,11
+313,Am Kamin,"Vor einigen Jahren verlebte ich, wie Sie wissen, mit meiner Frau ein paar Wochen auf dem Gute meines Bruders.",0,0,19
+314,Am Kamin,"Wenn wir des Tags zwischen Wiesen und Kornfeldern umhergeschlendert oder auch wohl mit den Kindern in den nahen Wald gefahren waren, so stand abends im Hause ein sehr behaglicher Teetisch für uns bereit, an dem sich auch wohl der eine oder andre von den benachbarten Hofbesitzern einzufinden pflegte.",0,0,48
+315,Am Kamin,"Bei solcher Veranlassung beklagte sich eines Abends mein Bruder gegen seinen nächsten Gutsnachbar, einen Mann, mit dem es sich sehr angenehm plauderte, daß ihm seit einiger Zeit fortwährend kleine Quantitäten Frucht von seinem Boden abhanden gekommen, ohne daß er den Dieb zu entdecken vermocht hätte.",0,0,45
+316,Am Kamin,"Nachdem alles durchgesprochen war, was etwa zur Aufklärung der Sache dienen mochte, sagte Herr B..r:",0,0,15
+317,Am Kamin,Mir selbst ist es in einem ähnlichen Falle nach dem Sprichwort ergangen:,0,0,12
+318,Am Kamin,Gott gibt's den Trägen im Schlaf.,0,0,6
+319,Am Kamin,Auf näheres Befragen erzählte er dann folgendes:,0,0,7
+320,Am Kamin,"Wie Sie wissen, pflegte ich die zu meinem Haferboden führende Falltür jeden Abend mit einem Vorlegeschloß zu verschließen und den Schlüssel beim Zubettgehen mit in meine Schlafkammer zu nehmen.",0,0,29
+321,Am Kamin,So habe ich es schon seit vielen Jahren gehalten.,0,0,9
+322,Am Kamin,"In dem Herbste, ehe Sie im Frühjahr darauf in unsre Nachbarschaft kamen, bemerkte ich mehrfach, wenn ich des Morgens auf den Boden kam, daß in der Nacht jemand, und zwar in scheinbarer Hast, über dem Hafer gewesen sei.",1,0,38
+323,Am Kamin,"Denn es war bald an dem einen, bald an dem andern Ende des Haufens darin gewühlt, und eine Menge Körner lagen unordentlich über die Dielen zerstreut, was ich an den Abenden vorher, wo ich zufällig auch dort gewesen war, nicht bemerkt hatte.",1,0,42
+324,Am Kamin,"Mein erster Gedanke war, daß mein Kutscher, dem ich seit einiger Zeit, zu seinem großen Ärger, die Rationen für die Pferde etwas beschränkt hatte, aus Liebe zu dem armen Viehzeug zum Spitzbuben geworden sei.",0,0,34
+325,Am Kamin,Allein aus verschiedenen Gründen mußte ich den Verdacht aufgeben.,0,0,9
+326,Am Kamin,"Da träumte mir eines Nachts, ich stehe im Mondschein auf dem Haferboden am Fenster.",0,0,14
+327,Am Kamin,"Wie ich dahin gelangt sein sollte, wußte ich nicht anzugeben; denn es war mir sehr wohl bewußt, daß die Falltür verschlossen sei.",0,0,22
+328,Am Kamin,Plötzlich höre ich unter derselben einen Schlüssel in dem Vorlegeschloß umdrehen;,1,0,11
+329,Am Kamin,"gleich darauf hebt sich die Tür, und ich sehe bei der in dem Raume herrschenden Mondhelle das Gesicht eines Menschen von der Treppe her auftauchen, in dem ich deutlich einen alten Arbeiter erkannte, der schon seit vielen Jahren bei mir gearbeitet und den ich in keiner Weise in Verdacht gehabt hatte.",1,0,51
+330,Am Kamin,"Während er noch mit dem Arm die Tür zurückdrängt, scheint auch er mich gewahr zu werden, denn die Tür fällt wieder zu, und ich sehe nichts mehr.",1,0,27
+331,Am Kamin,Aber ich erwache.,1,0,3
+332,Am Kamin,"Das Gesicht war so lebhaft gewesen, daß mir das Herz klopfte, und dabei schien der Mond so grell in die Kammer; gerade wie ich es im Traum gesehen.",1,0,28
+333,Am Kamin,"Ich wollte aufstehen und die Sache sogleich untersuchen, aber ich schalt mich eben Narren;",1,0,14
+334,Am Kamin,"auch war es kalt draußen, über den Hof zu gehen, und das Bett war so behaglich warm.",0,0,17
+335,Am Kamin,"Mit einem Wort, ich konnte mich nicht überwinden und schlief endlich wieder ein.",0,0,13
+336,Am Kamin,"Am andern Morgen, als ich beim Frühstück saß, trat der alte Martin zu mir in die Stube.",0,0,17
+337,Am Kamin,"Er sah verstört aus, drehte seine Mütze in den Händen und stand eine ganze Weile vor mir, ohne ein Wort hervorbringen zu können.",1,0,23
+338,Am Kamin,"»Jagen Sie mich nicht fort, Herr«, sagte er endlich, »es ist aus großer Not geschehen.«",1,0,15
+339,Am Kamin,"»Wie meint Er das, Martin?« fragte ich.",1,1,7
+340,Am Kamin,Er sah mich an.,1,0,4
+341,Am Kamin,"»Ich wollte auch schon sogleich auf den Boden zurück«, sagte er dann, »aber ich war so sehr erschrocken, als ich Sie da so am Fenster stehen sah.«",1,0,27
+342,Am Kamin,"Während ich in diesem Augenblick vielleicht nicht weniger erschrak, erfuhr ich nach und nach die näheren Umstände des Diebstahls und die unglücklichen Verhältnisse, die den bisher ehrlichen Mann zum Verbrecher gemacht hatten.",0,0,32
+343,Am Kamin,Hier schwieg der Erzähler.,0,0,4
+344,Am Kamin,"Von meinem Bruder erfuhr ich später, daß er dem alten Martin damals gründlich geholfen und ihn auch bis zu dessen Tode auf dem Hofe behalten hat.",0,0,26
+345,Am Kamin,"Da hätten wir also eine Geschichte, wo der Wachende durch den Träumenden zum Visionär wird.",0,0,15
+346,Am Kamin,Aber der Tee dürfte indessen fertig sein;,0,0,7
+347,Am Kamin,vielleicht ist Klärchen so gütig?,0,1,5
+348,Am Kamin,"Aber was sehen Sie denn so in die Tasse, alter Herr?",0,1,11
+349,Am Kamin,Er ist vorschriftsmäßig präpariert.,0,0,4
+350,Am Kamin,O der!,0,0,2
+351,Am Kamin,Der prophezeit aus der Teetasse oder vielmehr aus der Tasse Tee wie die Hexe aus dem Kaffeesatz.,0,0,17
+352,Am Kamin,"Nämlich nicht etwa das Schicksal, sondern den Bildungsgrad der Familie, in der die Tasse präsentiert wird; und wenn wir hier nicht so ganz unzweifelhaft gebildete Leute wären, ich glaube, er wäre imstande, mitunter daran zu zweifeln.",0,0,36
+353,Am Kamin,"Was ist das, alter Herr!",0,0,5
+354,Am Kamin,"Verteidigen Sie sich, oder – prophezeien Sie lieber einmal;",0,0,9
+355,Am Kamin,Sie haben die Tasse ja in Händen.,0,0,7
+356,Am Kamin,"Meine gnädigste Frau, Sie werden mir zugehen, daß, so wie das Bier der Feind, so der Tee der Freund der denkenden Menschen ist; und es dürfte daher die Art, wie dieser Freund in einem Hause be- respektive mißhandelt, wie er serviert und genossen wird, zu allerlei nicht gar zu fehltreffenden Schlußfolgerungen in der angedeuteten Beziehung berechtigen.",0,0,56
+357,Am Kamin,Das ist ja aber eine ganz unverschämte Theorie!,0,0,8
+358,Am Kamin,Ich will mich schlafen legen; denn jetzt folgt das ganze Rezept der Teebereitung.,0,0,13
+359,Am Kamin,"Nein, Kläre, es folgt nicht, obgleich so etwas von einem Küstenmenschen zu hören euch hier nur ersprießlich sein könnte.",0,0,19
+360,Am Kamin,"Seien Sie nicht so grob, alter Herr!",0,0,7
+361,Am Kamin,Ich bestrafe mich durch Schweigen.,0,0,5
+362,Am Kamin,"Aber Herr T. wird Ihnen die Geschichte erzählen, die ich ihm schon seit lange am Gesichte angesehen habe.",0,0,18
+363,Am Kamin,Sie haben nicht fehlgesehen;,0,0,4
+364,Am Kamin,"es ist mir allerdings etwas eingefallen, das sich dem vorhin Erzählten anschließt, nur daß es noch um einen Schritt darüber hinausgeht.",0,0,21
+365,Am Kamin,Wir sind bereit zu hören.,0,0,5
+366,Am Kamin,"Als ich vor einigen Jahren, es war um Ostern, in B. in Garnison stand – so erzählte mir der Hauptmann von K. –, wollten die dortigen Offiziere einer schönen Fremden einen Abschiedsball geben, mit der wir den Winter über viel und gern getanzt hatten.",0,0,44
+367,Am Kamin,"Eine unumgängliche Reparatur war Veranlassung, daß wir auf den Saal des Kasinos verzichteten und uns nach einem andern Lokal umtun mußten.",0,0,21
+368,Am Kamin,"Das hatte indessen in B., das an dergleichen Räumlichkeiten etwa nicht reich ist, seine Schwierigkeiten.",0,0,15
+369,Am Kamin,"Es wurde ein Komitee von vier Festordnern niedergesetzt, zu denen auch ich gehörte, und demselben das ganze Arrangement der Sache, vor allem aber die Aufspürung des Ballsaales, aufgetragen.",0,0,28
+370,Am Kamin,"Endlich nach vielen Bemühungen war er gefunden; in einem großen, ziemlich baufälligen Hause der Vorstadt, das in früheren Jahren, als B. noch Universitätsstadt war, zum öffentlichen Tanzlokale gedient hatte.",0,0,29
+371,Am Kamin,Jetzt wurde es in seinen oberen Räumlichkeiten als Kornspeicher benutzt;,0,0,10
+372,Am Kamin,der ungeheure Saal selbst stand gegenwärtig leer und ungebraucht.,0,0,9
+373,Am Kamin,"Aber mochte er schon in seinen besten Zeiten sich nur einer bescheidenen Ausrüstung erfreut haben, jetzt, mit den vor Feuchtigkeit triefenden Wänden, mit der dumpfen Luft hinter den geschlossenen Fensterläden dünkte er mich beim ersten Eintritt in der Tat wie ein große Gruft.",0,0,43
+374,Am Kamin,Desto mehr gab es für uns zu tun; denn wodurch ließe sich ein tanzlustiges Offizierskorps wohl entmutigen.,0,0,17
+375,Am Kamin,Es gab indessen ein neues Hindernis zu überwinden.,0,0,8
+376,Am Kamin,"Der Pächter des Hauses hatte eben eine Quantität Korn gekauft, welche in den nächsten Tagen auf dem Saal gelagert werden sollte, da die Böden so gut wie besetzt waren.",0,0,29
+377,Am Kamin,Wir ließen uns auch das nicht anfechten;,0,0,7
+378,Am Kamin,"wir gingen zu dem Herrn Agenten, wir plauderten mit ihm, wir machten uns liebenswürdig und brachten es auch wirklich dahin, daß der nachgiebige Mann, augenscheinlich wider bessere Einsicht, das Korn in den oberen Räumen des Gebäudes unterbringen ließ.",0,0,38
+379,Am Kamin,"Dann wurden Maurer, Tischler, Tapezierer in Arbeit gesetzt;",0,0,8
+380,Am Kamin,"in dem alten Saale wurde gelüftet, gehämmert, drapiert und gestrichen; und täglich ging einer oder der andre von uns dahin, um die Arbeiten zu beaufsichtigen und anzuordnen.",0,0,27
+381,Am Kamin,"Plötzlich, zu meinem großen Bedauern, wurde ich nach H. abkommandiert.",0,0,10
+382,Am Kamin,"Da war kein Ausweg, ich mußte auf den Ball verzichten.",0,0,10
+383,Am Kamin,"An meiner Stelle trat auf meinen Vorschlag der Hauptmann von L. in das Festkomitee, mein ältester und intimster Jugendfreund.",0,0,19
+384,Am Kamin,"Ein paar Tage nachdem ich meinen neuen Bestimmungsort erreicht hatte, saß ich eines Nachmittags, mit Briefschreiben beschäftigt, auf meinem Zimmer.",0,0,20
+385,Am Kamin,"Ich schrieb an L., den ich um die Nachsendung einiger Effekten und die Bezahlung einiger kleiner Schulden ersuchen wollte.",0,0,19
+386,Am Kamin,"Ich hatte auch sonst noch so manches auf dem Herzen, was ich dem Freunde mit teilen mußte.",0,0,17
+387,Am Kamin,"So saß ich, ganz in meinen Brief vertieft.",0,0,8
+388,Am Kamin,"Als ich aber zufällig einmal die Augen aufschlage, sehe ich zu meiner Verwunderung L. selbst in der Ecke des Zimmers stehen und mit sonderbar ausdruckslosen Augen nach mir hinstarren.",1,0,29
+389,Am Kamin,Er sprach nicht; aber er führte mit einer schwerfälligen Gebärde die Hand an die Lippen und schien sich damit etwas aus dem Munde zu ziehen.,1,0,25
+390,Am Kamin,"Es kam mir vor, als ob es Getreidekörner seien.",1,0,9
+391,Am Kamin,"Indem ich aber die Augen anstrengte, um schärfer zu scheu, wurde die Gestalt undeutlich, und bald sah ich nichts mehr als die nackten Wände.",1,0,24
+392,Am Kamin,"Erst jetzt, als ich mich in dem hellen Zimmer wieder allein fand, überkam mich das Gefühl des Unheimlichen;",1,0,18
+393,Am Kamin,"ich stand auf und verschloß den angefangenen Brief in meinen Sekretär, ich konnte mich nicht überwinden, ihn zu Ende zu schreiben.",1,0,21
+394,Am Kamin,"Einige Tage darauf erhielt ich von einem andern Kameraden die Nachricht, daß an jenem Vormittage der mit Getreide überlastete Boden oberhalb des Saales eingestürzt sei.",1,0,25
+395,Am Kamin,"Als man das Korn hinweggeräumt, hatte man unter demselben die Leiche des Hauptmanns von L. gefunden, der, da die Arbeiter zum Mittagessen fortgegangen waren, sich zur Zeit des Unfalls allein in dem schon fast vollendet umgestalteten Festlokale aufgehalten hatte.",1,0,39
+396,Am Kamin,"Horatio sagt, es sei nur Einbildung!",0,0,6
+397,Am Kamin,Wer sprach da?,0,1,3
+398,Am Kamin,"Du, Alexius?",0,1,2
+399,Am Kamin,Endlich?,0,1,1
+400,Am Kamin,"Ich habe schon zu Anfang eurer Geschichte hier an der Portiere gestanden und zugehört, wie ihr von den Träumenden auf den Sterbenden gekommen seid.",0,0,24
+401,Am Kamin,"Es bleibt nun noch eins übrig; und wenn ihr hören wollt, so werde ich mich nicht scheuen, diesen letzten Schritt zu tun.",0,0,22
+402,Am Kamin,"Nein, bleibt nur ruhig sitzen!",0,0,5
+403,Am Kamin,Es läßt sich auch von hier aus erzählen.,0,0,8
+404,Am Kamin,"Ich habe diese seltsame Geschichte von einem nahen Verwandten, der sie zum Teil selbst erlebt, teils später aus nächster Quelle erfahren hat.",0,0,22
+405,Am Kamin,"Er hielt sich vor mehreren Jahren vorübergehend in B. auf, wo derzeit auch der in wissenschaftlichen und künstlerischen Kreisen bekannte Geheime Medizinalrat W. lebte.",0,0,24
+406,Am Kamin,"Eines Abends, da er in Gesellschaft mit demselben zusammentraf, geriet die Unterhaltung in Veranlassung eines soeben erschienenen Buches, »Über das Leben der Seele«, unmerklich in jene dunkle Region, wo wir so gern mit unsicherem Finger umhertasten.",0,0,36
+407,Am Kamin,Man besprach die Fortexistenz der Seele nach dem Vergehen des Körpers und endlich auch die Möglichkeit einer Einwirkung der Toten auf die Lebendigen.,1,0,23
+408,Am Kamin,Der alte Medizinalrat hatte bei dieser letzten Wendung des Gesprächs schweigend in seinem Lehnstuhl gesessen.,1,0,15
+409,Am Kamin,Nun erhob er den weißgepuderten Kopf und sagte:,1,0,8
+410,Am Kamin,"Meine verehrten Herrschaften, wenn dergleichen möglich wäre, so würde ich es ohne Zweifel an mir erfahren haben;",1,0,17
+411,Am Kamin,"ich will auch nicht leugnen, daß mir mitunter die Gedanken so gekommen sind; jedoch geschehen ist mir niemals etwas.",1,0,19
+412,Am Kamin,Auf näheres Andringen fuhr er dann fort:,0,0,7
+413,Am Kamin,"Es ist kein Hehl dabei, ich kann es in diesem vertrauten Kreise wohl mitteilen, zumal Sie den, welchen es betrifft, gekannt und auch wohl wertgehalten haben.",0,0,26
+414,Am Kamin,"Ich meine unsern verstorbenen Freund, den Justizrat Z.",1,0,8
+415,Am Kamin,"Sie werden sich erinnern, daß er jahrelang an einem Herzleiden kränkelte, bis es endlich seinem tätigen Leben ein plötzliches Ziel setzte.",1,0,21
+416,Am Kamin,"Der Zustand des Kranken war derart, daß darüber die differentesten Meinungen bei den zu Rate gezogenen Ärzten herrschten.",1,0,18
+417,Am Kamin,"Während der letzten Monate hatte ich mit diesem werten Freunde, der sich rücksichtlich des annahenden Todes keineswegs einer Täuschung hingab, vielfache Gespräche gepflogen, wie wir sie heute abend hier gehört haben;",0,0,31
+418,Am Kamin,"namentlich liebte er es, sich hypothetischen Grübeleien über einen notwendigen Zusammenhang des Körpers mit der Seele hinzugeben.",0,0,17
+419,Am Kamin,"Nur daraus vermag ich es zu erklären, daß der sonst so verständige Mann von einer fast unbegreiflichen Angst vor einer demnächstigen Sektion seiner Leiche heimgesucht wurde, welche er andererseits von der wissenschaftlichen Neugier meiner Herren Kollegen mit gutem Grund erwarten konnte.",0,0,41
+420,Am Kamin,"So kam es eines Abends, daß ich, der ich ihn mit jeweiliger Zuziehung des Professors X. in den letzten Jahren behandelt hatte, ihm auf sein dringendes Verlangen das feierliche Versprechen gab, bei Eintritt des Todes die Eröffnung seiner Leiche unter jeder Bedingung zu verhindern.",0,0,44
+421,Am Kamin,"Kurz ehe dieser erfolgte, mußte ich in Veranlassung einer amtlichen Kommission die Stadt verlassen, nachdem ich die Sorge für diesen wie für meine andern Kranken dem Professor X. übertragen hatte.",0,0,30
+422,Am Kamin,Ich kehrte erst nach mehrtägiger Abwesenheit in die Stadt zurück.,0,0,10
+423,Am Kamin,Es war schon dunkel.,1,0,4
+424,Am Kamin,"Als ich an dem Hause des Justizrats Z. vorüberfuhr, sah ich mit Verwunderung, daß die beiden Wohnzimmer desselben hell erleuchtet waren;",1,0,21
+425,Am Kamin,"das fiel mir auf, denn die Fenster des Krankenzimmers lagen nach dem Hofe hinaus.",0,0,14
+426,Am Kamin,Ich ließ den Kutscher halten und begab mich nun unmittelbar aus dem Wagen in das Haus.,0,0,16
+427,Am Kamin,Bei meinem Eintritt in das erste Zimmer blinkten mir von seiner Kommode die Skalpelle und sonstige Gerätschaften entgegen; dabei der für einen Anatomen unverkennbare signifikante Geruch.,1,0,26
+428,Am Kamin,Aus der angrenzenden Stube hörte ich die diktierende Stimme des Professors X.;,1,0,12
+429,Am Kamin,"ich brauchte nichts weitet zu erfahren, ich wußte alles, was geschehen war.",1,0,12
+430,Am Kamin,"Als ich die zweite Tür öffnete, sah ich den Leichnam meines Freundes auf dem Tische liegen;",1,0,16
+431,Am Kamin,"er war schon eröffnet, die Intestina zum Teil herausgenommen, die Sektion in vollem Gange.",1,0,14
+432,Am Kamin,"Ich war heftig bewegt – und statt auf die gelehrten Auseinandersetzungen des Professors X. und des ihm assistierenden Arztes einzugehen, teilte ich ihnen meine dem Toten gegebene feierliche Zusage mit.",1,0,30
+433,Am Kamin,"Die Herren wollten dieselbe zwar nur als ein Beruhigungsmittel gelten lassen, wie solches dem Kranken wohl ohne weitere Absicht gegeben wird, indessen schließlich mußten sie mir dennoch versprechen, von weiterem Verfahren abzustehen und die herausgenommenen Teile in den Körper zurückzulegen.",0,0,40
+434,Am Kamin,Ich verließ sie dann und fuhr nach meiner Wohnung;,0,0,9
+435,Am Kamin,"ermüdet von der Reise, voll Schmerz um den Tod des Freundes und belastet mit einer unheimlichen Trauer, daß ich ihm das gegebene Wort nun dennoch nicht hatte halten können.",0,0,29
+436,Am Kamin,"Es ist nun fast ein Jahr vergangen, aber gleichwohl – ich bin niemals daran gemahnt worden.",0,0,16
+437,Am Kamin,"Der Medizinalrat schwieg, und es entstand eine augenblickliche Stille in der Gesellschaft, die wohl dem Andenken des Verstorbenen gelten mochte.",0,0,20
+438,Am Kamin,"Mit einem Male aber richteten sich die Blicke der Anwesenden wieder auf den Erzähler, der seinen Lehnstuhl verlassen hatte und mit vorgestreckten Händen in der Stellung eines Horchenden dastand.",0,0,29
+439,Am Kamin,"In dem faltenreichen alten Gesicht war der Ausdruck der höchsten Spannung, ja der Bestürzung nicht zu verkennen.",1,0,17
+440,Am Kamin,"Nach einer Weile hörte man ihn halblaut, wie zu sich selber, sagen:",1,0,12
+441,Am Kamin,Das ist entsetzlich!,1,0,3
+442,Am Kamin,"Als hierauf der Herr des Hauses, einer seiner ältesten Freunde, ihn sanft bei der Hand ergriff, richtete er sich langsam auf und blickte in der Gesellschaft umher, als wolle er gewiß werden, wo er sich befinde.",1,0,36
+443,Am Kamin,"»Meine verehrten Herrschaften«, sagte er dann, »ich habe soeben etwas erfahren – was und woher, erlassen Sie mir, Ihnen mitzuteilen.",1,0,20
+444,Am Kamin,"Nur so viel mag ich sagen, daß meine vorhin geäußerten Ansichten dadurch im wesentlichen berichtigt werden dürften.",1,0,17
+445,Am Kamin,"Zugleich muß ich bitten, mich für heute abend zu entlassen;",1,0,10
+446,Am Kamin,ich habe einen notwendigen Gang zu tun.,1,0,7
+447,Am Kamin,Der Medizinalrat nahm Hut und Stock und verließ die Gesellschaft.,1,0,10
+448,Am Kamin,"Als er draußen war, ging er quer über den Markt nach der Wohnung des Professors X., den er in seinem Studierzimmer antraf.",1,0,22
+449,Am Kamin,Er redete ihn ohne weiteres an:,1,0,6
+450,Am Kamin,"Sie erinnern sich noch des Justizrats, Herr Professor, und der von Ihnen geleiteten Sektion seiner Leiche?",1,1,16
+451,Am Kamin,"Gewiß, Herr Medizinalrat.",1,0,3
+452,Am Kamin,Auch des mir bei dieser Gelegenheit gegebenen Versprechens?,1,1,8
+453,Am Kamin,Auch dessen.,1,0,2
+454,Am Kamin,"Aber Sie haben mich getäuscht, Herr Kollege!",1,0,7
+455,Am Kamin,"Ich verstehe Sie nicht, Herr Kollege.",1,0,6
+456,Am Kamin,"Sie werden mich schon verstehen, wenn Sie mir nur erlauben wollen, dort einige Bücher in dem dritten Fach Ihres Repositoriums hinwegzuräumen!",1,0,21
+457,Am Kamin,"Und ehe der andre noch zu antworten vermochte, war der aufgeregte Greis schon herangetreten, und nachdem er mit zitternden Händen einige Bände beiseite gelegt, holte er aus der Ecke des Faches einen Glashafen hervor, in welchem sich ein Präparat in Spiritus befand.",1,0,42
+458,Am Kamin,Es war ein ungewöhnlich großes menschliches Herz.,1,0,7
+459,Am Kamin,"Es ist das Herz meines Freundes«, sagte er, das Glas mit beiden Händen fassend;",1,0,14
+460,Am Kamin,"»ich weiß es, aber der Tote muß es wiederhaben;",1,0,9
+461,Am Kamin,"noch heute, diese Nacht noch!",1,0,5
+462,Am Kamin,Der Professor wurde bestürzt;,1,0,4
+463,Am Kamin,"er war überzeugt, daß kein Mensch dem Medizinalrate seinen heimlichen Besitz verraten haben konnte.",1,0,14
+464,Am Kamin,"Aber er gestand demselben, daß in der Tat an jenem Abend das anatomische Gelüste über seine Gewissenhaftigkeit den Sieg davongetragen habe.",1,0,21
+465,Am Kamin,Das Herz des Toten wurde noch in derselben Nacht zu ihm in den Sarg gelegt.,1,0,15
+466,Am Kamin,Pfui! Wer befreit mich von diesem Schauder?,0,1,7
+467,Am Kamin,Schauder?,0,1,1
+468,Am Kamin,Du sprichst ja wie ein moderner Literarhistoriker.,0,0,7
+469,Am Kamin,Ich?,0,1,1
+470,Am Kamin,Weshalb?,0,1,1
+471,Am Kamin,Weil du in dem Grauen nur die Gänsehaut siehst.,0,0,9
+472,Am Kamin,"Nun, und was wäre es denn anders?",0,1,7
+473,Am Kamin,Was es anders wäre?,0,1,4
+474,Am Kamin,"Wenn wir uns recht besinnen, so lebt doch die Menschenkreatur, jede für sich, in fürchterlicher Einsamkeit;",0,0,16
+475,Am Kamin,ein verlorener Punkt in dem unermessenen und unverstandenen Raum.,0,0,9
+476,Am Kamin,"Wir vergessen es; aber mitunter dem Unbegreiflichen und Ungeheuren gegenüber befällt uns plötzlich das Gefühl davon; und das, dächte ich, wäre etwas von dem, was wir Grauen zu nennen pflegen.",0,0,30
+477,Am Kamin,Unsinn!,0,0,1
+478,Am Kamin,"Grauen ist, wenn einem nachts ein Eimer mit Gründlingen ins Bett geschüttet wird; das hab ich schon gewußt, als meine Schuhe noch drei Heller kosteten.",0,0,25
+479,Am Kamin,"Hast recht, Klärchen!",0,0,3
+480,Am Kamin,"Oder wenn man abends vor Schlafengehen unter alle Betten und Kommoden leuchtet, und ich weiß eine, die das sehr eifrig ins Werk setzen wird.",0,0,24
+481,Am Kamin,"Es könnte sogar sehr bald geschehen, denn es ist spät, meine Herrschaften, Bürger-Bettzeit, wie ich fast in dieser auserwählten Gesellschaft gesagt hätte.",0,0,22
+482,Eine Spukgeschichte,"Ihr wißt, daß ich mich vor einiger Zeit, und zwar kurz vor dem letzten Feldzuge, auf dem Gute des Obristen von P. befand.",0,0,23
+483,Eine Spukgeschichte,"Der Obriste war ein muntrer, jovialer Mann, so wie seine Gemahlin die Ruhe, die Unbefangenheit selbst.",0,0,16
+484,Eine Spukgeschichte,"Der Sohn befand sich, als ich dorten war, bei der Armee, so daß die Familie außer dem Ehepaar nur noch aus zwei Töchtern und einer alten Französin bestand, die eine Art von Gouvernante vorzustellen sich mühte, unerachtet die Mädchen schon über die Zeit des Gouvernierens hinaus schienen.",0,0,47
+485,Eine Spukgeschichte,"Die älteste war ein munteres Ding, bis zur Ausgelassenheit lebendig, nicht ohne Geist, aber so wie sie nicht fünf Schritte gehen konnte, ohne wenigstens drei Entrechats zu machen, so sprang sie auch im Gespräch, in all ihrem Tun rastlos von einem Dinge zum andern.",0,0,44
+486,Eine Spukgeschichte,"Ich hab' es erlebt, daß sie in weniger als zehn Minuten stickte – las – zeichnete – sang – tanzte – daß sie in einem Moment weinte um den armen Cousin, der in der Schlacht geblieben und, die bittern Tränen noch in den Augen, in ein hell aufquiekendes Gelächter ausbrach, als die Französin unversehens ihre Tabaksdose über den kleinen Mops ausschüttete, der sofort entsetzlich zu niesen begann, worauf die Alte lamentierte:",0,0,71
+487,Eine Spukgeschichte,›Ah che fatalità! ,0,0,3
+488,Eine Spukgeschichte,ah carino – poverino!‹,0,0,4
+489,Eine Spukgeschichte,"Sie pflegte nämlich mit besagtem Mops nur in italienischer Zunge zu reden, da er aus Padua gebürtig – und dabei war das Fräulein die lieblichste Blondine, die es geben mag, und in allen ihren seltsamen Capriccios voll Anmut und Liebenswürdigkeit, so daß sie überall einen unwiderstehlichen Zauber übte, ohne es zu wollen.",0,0,52
+490,Eine Spukgeschichte,"Das seltsamste Widerspiel bildete die jüngere Schwester, Adelgunde geheißen.",0,0,9
+491,Eine Spukgeschichte,"Vergebens ringe ich nach Worten, euch den ganz eignen wunderbaren Eindruck zu beschreiben, den das Mädchen auf mich machte, als ich sie zum ersten Male sah.",0,0,26
+492,Eine Spukgeschichte,"Denkt euch die schönste Gestalt, das wunderherrlichste Antlitz.",0,0,8
+493,Eine Spukgeschichte,"Aber eine Totenblässe liegt auf Lipp' und Wangen, und die Gestalt bewegt sich leise, langsam, gemessenen Schrittes, und wenn dann ein halblautes Wort von den kaum geöffneten Lippen ertönt und im weiten Saal verklingt, fühlt man sich von gespenstischen Schauern durchbebt.",1,0,41
+494,Eine Spukgeschichte,"Ich überwand wohl bald diese Schauer und mußte, als ich das tief in sich gekehrte Mädchen zum Sprechen vermocht, mir selbst gestehen, daß das Seltsame, ja Spukhafte dieser Erscheinung nur im Äußern liege, keinesweges sich aber aus dem Innern heraus offenbare.",0,0,41
+495,Eine Spukgeschichte,"In dem wenigen, was das Mädchen sprach, zeigte sich ein zarter weiblicher Sinn, ein heller Verstand, ein freundliches Gemüt.",0,0,19
+496,Eine Spukgeschichte,"Keine Spur irgendeiner Überspannung war zu finden, wiewohl das schmerzliche Lächeln, der tränenschwere Blick wenigstens irgendeinen physischen Krankheitszustand, der auch auf das Gemüt des zarten Kindes feindlich einwirken mußte, vermuten ließ.",0,0,31
+497,Eine Spukgeschichte,"Sehr sonderbar fiel es mir auf, daß die Familie, keinen, selbst die alte Französin nicht, ausgeschlossen, beängstet schien, sowie man mit dem Mädchen sprach, und versuchte, das Gespräch zu unterbrechen, sich darin manchmal auf gar erzwungene Weise einmischend.",0,0,38
+498,Eine Spukgeschichte,"Das seltsamste war aber, daß, sowie es abends acht Uhr geworden, das Fräulein erst von der Französin, dann von Mutter, Schwester, Vater gemahnt wurde, sich in ihr Zimmer zu begeben, wie man kleine Kinder zu Bette treibt, damit sie nicht übermüden, sondern fein ausschlafen.",0,0,44
+499,Eine Spukgeschichte,"Die Französin begleitete sie, und so kam es, daß beide niemals das Abendessen, welches um neun Uhr angerichtet wurde, abwarten durften.",0,0,21
+500,Eine Spukgeschichte,"Die Obristin, meine Verwunderung wohl bemerkend, warf einmal, um jeder Frage vorzubeugen, leicht hin, daß Adelgunde viel kränkte, daß sie vorzüglich abends um neun Uhr von Fieberanfällen heimgesucht werde, und daß daher der Arzt geraten, sie zu dieser Zeit der unbedingtesten Ruhe zu überlassen.",0,0,44
+501,Eine Spukgeschichte,"Ich fühlte, daß es noch eine ganz andere Bewandtnis damit haben müsse, ohne irgend Deutliches ahnen zu können.",0,0,18
+502,Eine Spukgeschichte,"Erst heute erfuhr ich den wahren entsetzlichen Zusammenhang der Sache und das Ereignis, das den kleinen glücklichen Familienkreis auf furchtbare Weise verstört hat.",1,0,23
+503,Eine Spukgeschichte,"Adelgunde war sonst das blühendste, munterste Kind, das man nur sehen konnte.",0,0,12
+504,Eine Spukgeschichte,"Ihr vierzehnter Geburtstag wurde gefeiert, eine Menge Gespielinnen waren dazu eingeladen.",0,0,11
+505,Eine Spukgeschichte,"Die sitzen in dem schönen Boskett des Schloßgartens im Kreise umher und scherzen und lachen und kümmern sich nicht darum, daß immer finstrer und finstrer der Abend heraufzieht, da die lauen Juliuslüfte erquickend wehen und erst jetzt ihre Lust recht aufgeht.",0,0,41
+506,Eine Spukgeschichte,"In der magischen Dämmerung beginnen sie allerlei seltsame Tänze, indem sie Elfen und andere flinke Spukgeister vorstellen wollen.",1,0,18
+507,Eine Spukgeschichte,"›Hört,‹ ruft Adelgunde, als es im Boskett ganz finster geworden, ›hört, Kinder, nun will ich euch einmal als die weiße Frau erscheinen, von der unser alte verstorbene Gärtner so oft erzählt hat.",1,0,32
+508,Eine Spukgeschichte,"Aber da müßt ihr mit mir kommen bis ans Ende des Gartens, dorthin, wo das alte Gemäuer steht.‹",1,0,18
+509,Eine Spukgeschichte,"Und damit wickelt sie sich in ihren weißen Shawl und schwebt leichtfüßig fort durch den Laubgang, und die Mädchen laufen ihr nach in vollem Schäkern und Lachen.",1,0,27
+510,Eine Spukgeschichte,"Aber kaum ist Adelgunde an das alte, halb eingefallene Gewölbe gekommen, als sie erstarrt – gelähmt an allen Gliedern stehen bleibt.",1,0,21
+511,Eine Spukgeschichte,Die Schloßuhr schlägt neun.,1,0,4
+512,Eine Spukgeschichte,›Seht ihr nichts‹,1,0,3
+513,Eine Spukgeschichte,"ruft Adelgunde mit dem dumpfen hohlen Ton des tiefsten Entsetzens,",1,0,10
+514,Eine Spukgeschichte,seht ihr nichts,1,0,3
+515,Eine Spukgeschichte,die Gestalt,1,0,2
+516,Eine Spukgeschichte,die dicht vor mir steht,1,0,5
+517,Eine Spukgeschichte,Jesus!,1,0,1
+518,Eine Spukgeschichte,sie streckt die Hand nach mir aus,1,0,7
+519,Eine Spukgeschichte,seht ihr denn nichts?‹ ,1,1,4
+520,Eine Spukgeschichte,"Die Kinder sehen nicht das mindeste, aber alle erfaßt Angst und Grauen.",1,0,12
+521,Eine Spukgeschichte,"Sie rennen fort, bis auf eine, die, die beherzteste, sich ermutigt, auf Adelgunden zuspringt, sie in die Arme fassen will.",1,0,20
+522,Eine Spukgeschichte,Aber in dem Augenblick sinkt Adelgunde todähnlich zu Boden.,1,0,9
+523,Eine Spukgeschichte,Auf des Mädchens gellendes Angstgeschrei eilt alles aus dem Schlosse herzu.,1,0,11
+524,Eine Spukgeschichte,Man bringt Adelgunde hinein.,1,0,4
+525,Eine Spukgeschichte,"Sie erwacht endlich aus der Ohnmacht und erzählt, an allen Gliedern zitternd, daß, kaum sei sie vor das Gewölbe getreten, dicht vor ihr eine luftige Gestalt, wie in Nebel gehüllt, gestanden und die Hand nach ihr ausgestreckt habe.",1,0,38
+526,Eine Spukgeschichte,"Was war natürlicher, als daß man die ganze Erscheinung den wunderbaren Täuschungen des dämmernden Abendlichts zuschrieb.",0,0,16
+527,Eine Spukgeschichte,"Adelgunde erholte sich in derselben Nacht so ganz und gar von ihrem Schreck, daß man durchaus keine böse Folgen befürchtete, sondern die ganze Sache für völlig abgetan hielt.",0,0,28
+528,Eine Spukgeschichte,Wie ganz anders begab sich alles!,1,0,6
+529,Eine Spukgeschichte,"Kaum schlägt es den Abend darauf neun Uhr als Adelgunde mitten in der Gesellschaft, die sie umgibt, entsetzt aufspringt und ruft:",1,0,21
+530,Eine Spukgeschichte,Da ist es,1,0,3
+531,Eine Spukgeschichte,da ist es,1,0,3
+532,Eine Spukgeschichte,seht ihr denn nichts!,1,0,4
+533,Eine Spukgeschichte,dicht vor mir steht es!‹,1,0,5
+534,Eine Spukgeschichte,"Genug, seit jenem unglückseligen Abende behauptete Adelgunde, sowie es abends neune schlug, daß die Gestalt dicht vor ihr stehe und einige Sekunden weile, ohne daß irgendein Mensch außer ihr auch nur das mindeste wahrnehmen konnte oder in irgendeiner psychischen Empfindung die Nähe eines unbekannten geistigen Prinzips gespürt haben sollte.",1,0,49
+535,Eine Spukgeschichte,"Nun wurde die arme Adelgunde für wahnsinnig gehalten, und die Familie schämte sich in seltsamer Verkehrtheit dieses Zustandes der Tochter, der Schwester.",0,0,22
+536,Eine Spukgeschichte,"Daher jene sonderbare Art sie zu behandeln, deren ich erst erwähnte. ",0,0,11
+537,Eine Spukgeschichte,"Es fehlte nicht an Ärzten und an Mitteln, die das arme Kind von der fixen Idee, wie man die von ihr behauptete Erscheinung zu nennen beliebte, befreien sollten, aber alles blieb vergebens, und sie bat unter vielen Tränen, man möge sie doch nur in Ruhe lassen, da die Gestalt, die in ihren ungewissen, unkenntlichen Zügen an und vor sich selbst gar nichts Schreckliches habe, ihr kein Entsetzen mehr errege, wiewohl es jedesmal nach der Erscheinung ihr zumute sei, als wäre ihr Innerstes mit allen Gedanken hinausgewendet und schwebe körperlos außer ihr selbst umher, wovon sie krank und matt werde.",0,0,99
+538,Eine Spukgeschichte,"Endlich machte der Obrist die Bekanntschaft eines berühmten Arztes, der in dem Ruf stand, Wahnsinnige auf eine überaus pfiffige Weise zu heilen.",0,0,22
+539,Eine Spukgeschichte,"Als der Obrist diesem entdeckt hatte, wie es sich mit der armen Adelgunde begebe, lachte er laut auf und meinte, nichts sei leichter, als diesen Wahnsinn zu heilen, der bloß in der überreizten Einbildungskraft seinen Grund finde.",0,0,37
+540,Eine Spukgeschichte,"Die Idee der Erscheinung des Gespenstes sei mit dem Ausschlagen der neunten Abendstunde so fest verknüpft, daß die innere Kraft des Geistes sie nicht mehr trennen könne, und es käme daher nur darauf an, diese Trennung von außen her zu bewirken.",0,0,41
+541,Eine Spukgeschichte,"Dies könne aber nun wieder sehr leicht dadurch geschehen, daß man das Fräulein in der Zeit täusche und die neunte Stunde vorübergehen lasse, ohne daß sie es wisse.",0,0,28
+542,Eine Spukgeschichte,"Wäre dann das Gespenst nicht erschienen, so würde sie selbst ihren Wahn einsehen, und physische Erkräftigungsmittel würden dann die Kur glücklich vollenden.",0,0,22
+543,Eine Spukgeschichte,Der unselige Rat wurde ausgeführt! ,0,0,5
+544,Eine Spukgeschichte,"In einer Nacht stellte man sämtliche Uhren im Schlosse, ja selbst die Dorfuhr, deren dumpfe Schläge herabsummten, um eine Stunde zurück, so daß Adelgunde, sowie sie am frühen Morgen erwachte, in der Zeit um eine Stunde irren mußte.",0,0,38
+545,Eine Spukgeschichte,Der Abend kam heran.,1,0,4
+546,Eine Spukgeschichte,"Die kleine Familie war wie gewöhnlich in einem heiter verzierten Eckzimmer versammelt, kein Fremder zugegen.",0,0,15
+547,Eine Spukgeschichte,"Die Obristin mühte sich, allerlei Lustiges zu erzählen, der Obrist fing an, wie es seine Art war, wenn er vorzüglich bei Laune, die alte Französin ein wenig aufzuziehen, worin ihm Auguste (das ältere Fräulein) beistand.",0,0,35
+548,Eine Spukgeschichte,"Man lachte, man war fröhlicher als je.",0,0,7
+549,Eine Spukgeschichte,"Da schlägt die Wanduhr achte (es war also die neunte Stunde), und leichenblaß sinkt Adelgunde in den Lehnsessel zurück – das Nähzeug entfällt ihren Händen!",1,0,25
+550,Eine Spukgeschichte,"Dann erhebt sie sich, alle Schauer des Entsetzens im Antlitz, starrt hin in des Zimmers öden Raum, murmelt dumpf und hohl:",1,0,21
+551,Eine Spukgeschichte,Was!,1,0,1
+552,Eine Spukgeschichte,eine Stunde früher?,1,1,3
+553,Eine Spukgeschichte,"ha, seht ihr's?",1,1,3
+554,Eine Spukgeschichte,seht ihr's?,1,1,2
+555,Eine Spukgeschichte,da steht es dicht vor mir,1,0,6
+556,Eine Spukgeschichte,dicht vor mir!,1,0,3
+557,Eine Spukgeschichte,"Alle fahren auf, vom Schrecken erfaßt, aber als niemand auch nur das mindeste gewahrt, ruft der Obrist:",1,0,17
+558,Eine Spukgeschichte,Adelgunde!,1,0,1
+559,Eine Spukgeschichte,fasse dich!,1,0,2
+560,Eine Spukgeschichte,"es ist nichts, es ist ein Hirngespinst, ein Spiel deiner Einbildungskraft, was dich täuscht, wir sehen nichts, gar nichts und müßten wir, ließe sich wirklich dicht vor dir eine Gestalt erschauen, müßten wir sie nicht ebensogut wahrnehmen als du?",1,1,39
+561,Eine Spukgeschichte,Fasse dich,1,0,2
+562,Eine Spukgeschichte,"fasse dich, Adelgunde!",1,0,3
+563,Eine Spukgeschichte,O Gott,1,0,2
+564,Eine Spukgeschichte,o Gott,1,0,2
+565,Eine Spukgeschichte,seufzt Adelgunde,1,0,2
+566,Eine Spukgeschichte,will man mich denn wahnsinnig machen!,1,0,6
+567,Eine Spukgeschichte,"Seht, da streckt es den weißen Arm lang aus nach mir",1,0,11
+568,Eine Spukgeschichte,es winkt.,1,0,2
+569,Eine Spukgeschichte,"Und wie willenlos, unverwandten starren Blickes, greift nun Adelgunde hinter sich, faßt einen kleinen Teller, der zufällig auf dem Tische steht, reicht ihn vor sich hin in die Luft, läßt ihn los – und der Teller, wie von unsichtbarer Hand getragen, schwebt langsam im Kreise der Anwesenden umher und läßt sich dann leise auf den Tisch nieder!",1,0,57
+570,Eine Spukgeschichte,"Die Obristin, Auguste lagen in tiefer Ohnmacht, der ein hitziges Nervenfieber folgte.",1,0,12
+571,Eine Spukgeschichte,"Der Obrist nahm sich mit aller Kraft zusammen, aber man merkte wohl an seinem verstörten Wesen die tiefe feindliche Wirkung jenes unerklärlichen Phänomens.",1,0,23
+572,Eine Spukgeschichte,"Die alte Französin hatte, auf die Knie gesunken, das Gesicht zur Erde gebeugt, still gebetet, sie blieb so wie Adelgunde frei von allen bösen Folgen.",1,0,25
+573,Eine Spukgeschichte,In kurzer Zeit war die Obristin hingerafft.,1,0,7
+574,Eine Spukgeschichte,"Auguste überstand die Krankheit, aber wünschenswerter war gewiß ihr Tod, als ihr jetziger Zustand.",0,0,14
+575,Eine Spukgeschichte,"ie, die volle herrliche Jugendlust selbst, wie ich sie erst beschrieben, ist von einem Wahnsinn befallen, der mir wenigstens grauenvoller, entsetzlicher vorkommt, als irgendeiner, den jemals eine fixe Idee erzeugte.",0,0,30
+576,Eine Spukgeschichte,"Sie bildet sich nämlich ein, sie sei jenes unsichtbare körperlose Gespenst Adelgundens, flieht daher alle Menschen oder hütet sich wenigstens, sobald ein anderer zugegen, zu reden, sich zu bewegen.",0,0,29
+577,Eine Spukgeschichte,"Kaum wagt sie es zu atmen, denn fest glaubt sie, daß, verrate sie ihre Gegenwart auf diese, jene Weise, jeder vor Entsetzen des Todes sein müsse.",0,0,26
+578,Eine Spukgeschichte,"Man öffnet ihr die Türe, man setzt ihr Speisen hin, dann schlüpft sie verstohlen hinein und heraus – ißt ebenso heimlich u.s.w.",0,0,22
+579,Eine Spukgeschichte,Kann ein Zustand qualvoller sein?,0,1,5
+580,Eine Spukgeschichte,"Der Obrist, ganz Gram und Verzweiflung, folgte den Fahnen zum neuen Feldzuge.",0,0,12
+581,Eine Spukgeschichte,Er blieb in der siegreichen Schlacht bei W.,0,0,8
+582,Eine Spukgeschichte,"Merkwürdig, höchst merkwürdig ist es, daß Adelgunde seit jenem verhängnisvollen Abende von dem Phantom befreit ist.",0,0,16
+583,Eine Spukgeschichte,"Sie pflegt getreulich die kranke Schwester, und ihr steht die alte Französin bei.",0,0,13
+584,Eine Spukgeschichte,"So wie Sylvester mir heute sagte, ist der Oheim der armen Kinder hier, um mit unserm wackern R- über die Kurmethode, die man allenfalls bei Augusten versuchen könne, zu Rate zu gehen.",0,0,32
+585,Eine Spukgeschichte,"Gebe der Himmel, daß die unwahrscheinliche Rettung möglich.",0,0,8
+586,Eine Spukgeschichte,"Cyprian schwieg, und auch die Freunde blieben still, indem sie gedankenvoll vor sich hinschauten.",0,0,14
+587,Eine Spukgeschichte,Endlich brach Lothar los:,0,0,4
+588,Eine Spukgeschichte,Das ist ja eine ganz verdammte Spukgeschichte!,0,0,7
+589,Eine Spukgeschichte,"Aber ich kann's nicht leugnen, mir bebt die Brust, unerachtet mir das ganze Ding mit dem schwebenden Teller kindisch und abgeschmackt bedünken will.",0,0,23
+590,Eine Spukgeschichte,"Nicht so rasch,« nahm Ottmar das Wort, »nicht so rasch, lieber Lothar!",0,0,12
+591,Eine Spukgeschichte,"Du weißt, was ich von Spukgeschichten halte, du weißt, daß ich mich gegen alle Visionärs damit brüste, daß die Geisterwelt, unerachtet ich sie oft mit verwogener Keckheit in die Schranken rief, noch niemals sich bemühte, mich für meinen Frevel zu züchtigen, aber Cyprians Erzählung gibt einen ganz andern Punkt zu bedenken, als den der bloßen chimärischen Spukerei.",0,0,57
+592,Eine Spukgeschichte,"Mag es mit Adelgundens Phantom, mag es mit dem schwebenden Teller dann nun eine Bewandtnis gehabt haben, welche es wolle, genug, die Tatsache bleibt stehen, daß sich an jenem Abende in dem Kreise der Familie des Obristen von P. etwas zutrug, worüber drei Personen zu gleicher Zeit in einen solchen verstörten Gemütszustand gerieten, der bei einer den Tod, bei der andern Wahnsinn herbeiführte, wollen wir nicht auch, wenigstens mittelbar, den Tod des Obristen jenem Ereignis zuschreiben.",0,0,76
+593,Eine Spukgeschichte,"Denn eben fällt mir ein, von Offizieren gehört zu haben, der Obrist sei beim Angriff plötzlich, wie von Furien getrieben, ins feindliche Feuer hineingesprengt.",1,0,24
+594,Eine Spukgeschichte,"Nun ist aber auch die Geschichte mit dem Teller so ohne alle Staffierung gewöhnlicher Spukgeschichten, selbst die Stunde allem spukischen Herkommen entgegen, und das Ganze so ungesucht, so einfach, daß gerade in der Wahrscheinlichkeit, die das Unwahrscheinlichste dadurch erhält, für mich das Grauenhafte liegt.",0,0,44
+595,Eine Spukgeschichte,"Doch, nehmen wir an, daß Adelgundens Einbildung Vater, Mutter, Schwester mit fortriß, daß der Teller nur innerhalb ihres Gehirns im Kreise umherschwebte, wäre diese Einbildung, in einem Moment wie ein elektrischer Schlag drei Personen zum Tode treffend, nicht eben der entsetzlichste Spuk, den es geben könnte?",0,1,46
+596,Eine Spukgeschichte,"»Allerdings,« sprach Theodor, »und ich teile mit dir, Ottmar, das lebhafte Gefühl, daß gerade in der Einfachheit der Geschichte ihre tiefsten Schauer liegen.",0,0,23
+597,Eine Spukgeschichte,"Ich kann mir es denken, daß ich den plötzlichen Schreck irgendeiner grauenhaften Erscheinung wohl ertragen könnte, das unheimliche, den äußern Sinn in Anspruch nehmende Treiben eines unsichtbaren Wesens würde mich dagegen unfehlbar wahnsinnig machen.",0,0,34
+598,Eine Spukgeschichte,"Es ist das Gefühl der gänzlichen hilflosesten Ohnmacht, das den Geist zermalmen müßte.",0,0,13
+599,Eine Spukgeschichte,"Ich erinnere mich, daß ich dem tiefsten Grausen kaum widerstehen konnte, daß ich wie ein einfältiges, verschüchtertes Kind nicht allein in meinem Zimmer schlafen mochte, als ich einst von einem alten Musiker las, den ein entsetzlicher Spuk mehrere Zeit hindurch verfolgte und ihn auch beinahe zum hellen Wahnsinn trieb.",0,0,49
+600,Eine Spukgeschichte,Nachts spielte nämlich ein unsichtbares Wesen auf seinem Flügel die wunderbarsten Kompositionen mit der Kraft und Fertigkeit des vollendeten Meisters.,1,0,20
+601,Eine Spukgeschichte,"Er hörte jeden Ton, er sah, wie die Tasten niedergedrückt wurden, wie die Saiten zitterten, aber nicht den leisesten Schimmer einer Gestalt.",1,0,22
+602,Eine Spukgeschichte,"Nein,« rief Lothar, »nein, es ist nicht auszuhalten, wie das Tolle wieder unter uns lustig fortwuchert!",0,0,16
+603,Eine Spukgeschichte,"Ich hab' es euch gestanden, daß mir der verdammte Teller das Innerste aufgeregt hat.",0,0,14
+604,Eine Spukgeschichte,Ottmar hat recht;,0,0,3
+605,Eine Spukgeschichte,"hält man sich nur an das Resultat irgendeines Ereignisses, das sich wirklich begeben, so ist dies Resultat der gräßlichste Spuk, den es geben kann.",0,0,24
+606,Eine Spukgeschichte,"Ich verzeihe deshalb unserm Cyprian die verstörte Stimmung, die er beim Eintreten merken ließ, die aber jetzt schon ziemlich nachgelassen.",0,0,20
+607,Eine Spukgeschichte,Doch jetzt kein Wort mehr von allem gespenstischen Unwesen.,0,0,9
+608,Eine Spukgeschichte,"Schon längst bemerke ich, daß Ottmarn ein Manuskript aus der Busentasche hervorguckt, auf Erlösung hoffend.",0,0,15
+609,Eine Spukgeschichte,Mag er es denn erlösen?,0,1,5
+610,Eine Spukgeschichte,"»Nein, nein,« sprach Theodor, »der Strom, der in krausen Wellen daherbrauste, muß sanft abgeleitet werden, und dazu ist ein Fragment sehr tauglich, das ich vor langer Zeit, besonders dazu angeregt, aufschrieb.",0,0,31
+611,Eine Spukgeschichte,"Es kommt viel Mystisches darin vor, an psychischen Wundern und seltsamen Hypothesen ist auch gar kein Mangel, und doch lenkt es hübsch ein ins gewöhnliche Leben.",0,0,26
+612,Eine Spukgeschichte,Theodor las:,0,0,2
+613,Tatsachen im Falle Waldemar,"Selbstverständlich finde ich es ganz natürlich, daß der seltsame Fall des Herrn Waldemar viel erörtert worden ist.",1,0,17
+614,Tatsachen im Falle Waldemar,"Es wäre ein Wunder, wenn es anders gewesen wäre, besonders unter den vorliegenden Umständen.",1,0,14
+615,Tatsachen im Falle Waldemar,"Infolge des Wunsches aller Beteiligten, die Sache vor der Öffentlichkeit wenigstens so lange geheimzuhalten, bis uns Gelegenheit zur weiteren Nachforschung gegeben war, und durch unsere Bemühungen, dies zu erreichen, drangen entstellte und übertriebene Gerüchte ins Volk und wurden die Quelle unangenehmer Mißdeutungen und selbstredend auch starker Ungläubigkeit.",1,0,47
+616,Tatsachen im Falle Waldemar,"Es ist nun also notwendig, daß ich die
+Tatsachen
+berichte – soweit ich sie selbst begreife.",1,0,16
+617,Tatsachen im Falle Waldemar,Sie seien hier kurz zusammengefaßt.,0,0,5
+618,Tatsachen im Falle Waldemar,"Während der letzten drei Jahre war mein Interesse mehrfach auf den Mesmerismus hingelenkt worden, und vor neun Monaten etwa fiel es mir ganz plötzlich auf, daß die Reihe der bisher gemachten Experimente eine sehr auffallende und unverantwortliche Lücke aufwies:",0,0,39
+619,Tatsachen im Falle Waldemar,"man hatte noch keinen
+Sterbenden
+hypnotisiert!",0,0,6
+620,Tatsachen im Falle Waldemar,"Zunächst blieb zu beobachten, ob ein solcher Patient für magnetische Einwirkungen besonders empfänglich war;",0,0,14
+621,Tatsachen im Falle Waldemar,"ferner ob die Empfänglichkeit in solchem Zustand, falls sie vorhanden, stärker oder schwächer war als sonst;",0,0,16
+622,Tatsachen im Falle Waldemar,"und drittens, in welchem Grade oder für welche Zeitdauer der Tod hinausgeschoben werden konnte.",0,0,14
+623,Tatsachen im Falle Waldemar,"Noch andere Punkte galt es aufzuklären, doch jene vor allem reizten meine Neugier – und ganz besonders der dritte Punkt erschien mir äußerst bedeutungsvoll.",0,0,24
+624,Tatsachen im Falle Waldemar,"Auf der Suche nach einer Persönlichkeit, mit Hilfe deren ich diese Fragen lösen könnte, fiel mir mein Freund, Herr Ernst Waldemar ein, der bekannte Bibliothekar der ›Bibliotheca Forensica‹ und (unter dem Pseudonym Issachar Marx) Verfasser der polnischen Übersetzungen des ›Wallenstein‹ und des ›Gargantua‹.",0,0,43
+625,Tatsachen im Falle Waldemar,"Herr Waldemar, der hauptsächlich in Harlem gelebt hatte und sich seit 1839 in New York aufhielt, war besonders auffallend durch seine unerhörte Magerkeit und durch die weiße Farbe seines Backenbartes, der mit dem schwarzen Haupthaar seltsam kontrastierte, so daß man oft glauben mochte, er trage eine Perücke.",0,0,47
+626,Tatsachen im Falle Waldemar,Er war sehr reizbar und eignete sich daher für mesmeristische Versuche vortrefflich.,0,0,12
+627,Tatsachen im Falle Waldemar,"Zwei- oder dreimal war es mir ohne Schwierigkeit gelungen, ihn in Schlaf zu versetzen, doch andere Erwartungen, die seine sonderbare Konstitution in mir erweckt hatte, erfüllten sich nicht.",0,0,28
+628,Tatsachen im Falle Waldemar,"Sein Wille war niemals dem meinigen vollkommen unterworfen, und in bezug auf ›Hellsehen‹ konnte ich mit ihm nichts Zuverlässiges erreichen.",0,0,20
+629,Tatsachen im Falle Waldemar,"Meinen Mißerfolg in dieser Hinsicht schrieb ich immer seiner zerrütteten Gesundheit zu, denn einige Monate, ehe ich mit ihm bekannt wurde, hatten seine Ärzte ihn für unrettbar schwindsüchtig erklärt.",0,0,29
+630,Tatsachen im Falle Waldemar,"Es war übrigens seine Gewohnheit, von seiner bevorstehenden Auflösung als von einer unvermeidlichen Tatsache, die nicht bedauert werden sollte, zu sprechen.",0,0,21
+631,Tatsachen im Falle Waldemar,"Als jene Gedanken sich mir zum ersten Male aufdrängten, war es ganz natürlich, daß ich an Herrn Waldemar dachte.",0,0,19
+632,Tatsachen im Falle Waldemar,"Ich kannte die ruhevolle Philosophie dieses Mannes zu gut, als daß ich
+seinerseits
+irgendwelche Bedenken vermutet hätte; und er hatte in Amerika keine Angehörigen, die Einspruch hätten erheben können.",0,0,29
+633,Tatsachen im Falle Waldemar,"Ich sprach mit ihm ganz offen über die Sache, und zu meiner Verwunderung zeigte er lebhaftes Interesse.",0,0,17
+634,Tatsachen im Falle Waldemar,"Ich sage: zu meiner Verwunderung, denn obgleich er sich meinen Experimenten stets willig gefügt hatte, so hatte er ihnen doch niemals besondere Sympathie entgegengebracht.",0,0,24
+635,Tatsachen im Falle Waldemar,"Die Art seines Leidens gestattete es, seine Todesstunde ziemlich genau vorauszusagen, und es wurde also zwischen uns vereinbart, daß er etwa vierundzwanzig Stunden vor der ihm von den Ärzten bezeichneten Sterbestunde mich zu sich rufen lassen würde.",0,0,37
+636,Tatsachen im Falle Waldemar,"Es sind jetzt mehr als sieben Monate verflossen, seit ich von Herrn Waldemars eigener Hand folgende Zeilen erhielt:",0,0,18
+637,Tatsachen im Falle Waldemar,Mein lieber P.!,0,0,3
+638,Tatsachen im Falle Waldemar,Sie können nun also kommen.,1,0,5
+639,Tatsachen im Falle Waldemar,"D. und F. haben festgestellt, daß ich nicht lange mehr mitmache – nur noch bis morgen mitternacht;",1,0,17
+640,Tatsachen im Falle Waldemar,"und ich glaube, sie haben den Zeitpunkt ziemlich richtig angegeben.",1,0,10
+641,Tatsachen im Falle Waldemar,Waldemar.,-,0,1
+642,Tatsachen im Falle Waldemar,"Ich erhielt diese Mitteilung eine halbe Stunde, nachdem sie geschrieben war, und fünfzehn Minuten später befand ich mich im Zimmer des Sterbenden.",1,0,22
+643,Tatsachen im Falle Waldemar,"Ich hatte ihn seit zehn Tagen nicht gesehen und war entsetzt über die furchtbare Veränderung, die in dieser kurzen Zeit mit ihm vorgegangen war.",1,0,24
+644,Tatsachen im Falle Waldemar,"Sein Antlitz war bleifarben, die Augen blickten stumpf und vollkommen glanzlos, und die Abmagerung hatte so große Fortschritte gemacht, daß die Haut von den Backenknochen durchbohrt worden war.",1,0,28
+645,Tatsachen im Falle Waldemar,"Sein Schleimauswurf war unerhört stark, der Puls kaum vernehmbar.",1,0,9
+646,Tatsachen im Falle Waldemar,"Trotz alledem schien er im vollkommenen Besitz seiner Geisteskräfte und war auch körperlich nicht so schwach, als man hätte annehmen sollen.",0,0,21
+647,Tatsachen im Falle Waldemar,"Er sprach sehr deutlich, nahm ohne jede Hilfe einige lindernde Arzneien zu sich und war, als ich ins Zimmer trat, damit beschäftigt, in sein Notizbuch Aufzeichnungen zu machen.",0,0,28
+648,Tatsachen im Falle Waldemar,"Er saß von Kissen gestützt, aufrecht im Bett.",0,0,8
+649,Tatsachen im Falle Waldemar,Die Doktoren D. und F. waren an wesend.,0,0,8
+650,Tatsachen im Falle Waldemar,"Nachdem ich Waldemar die Hand gedrückt, nahm ich die Herren beiseite und empfing von ihnen über den Zustand des Patienten eingehenden Bericht.",0,0,22
+651,Tatsachen im Falle Waldemar,Der linke Lungenflügel war seit achtzehn Monaten vollkommen verknorpelt und ganz unbrauchbar.,0,0,12
+652,Tatsachen im Falle Waldemar,"Die obere Hälfte des rechten Lungenflügels war ebenfalls teilweise, wenn nicht sogar ganz verknöchert, während die untere Hälfte bereits in Eiterung überzugehen begann.",0,0,23
+653,Tatsachen im Falle Waldemar,"Mehrere umfangreiche Durchbrüche waren vorhanden, und einige Rippen waren ebenfalls von Eiterung ergriffen.",0,0,13
+654,Tatsachen im Falle Waldemar,Diese Erscheinungen im rechten Lungenflügel waren verhältnismäßig neueren Datums.,0,0,9
+655,Tatsachen im Falle Waldemar,"Die Verknöcherung hatte mit ganz ungewöhnlicher Schnelligkeit um sich gegriffen, und die Rippeneiterung hatte man erst in den letzten drei Tagen wahrgenommen.",0,0,22
+656,Tatsachen im Falle Waldemar,"Unabhängig von der Schwindsucht vermutete man bei dem Kranken eine Geschwulst an der Pulsader, doch machte die Lungenverknöcherung eine genaue Diagnose in dieser Hinsicht unmöglich.",0,0,25
+657,Tatsachen im Falle Waldemar,"Es war die Ansicht beider Ärzte, daß Herr Waldemar gegen Mitternacht des folgenden Tages (eines Sonntags) sterben werde.",1,0,18
+658,Tatsachen im Falle Waldemar, Jetzt war es Samstag sieben Uhr abends.,1,0,7
+659,Tatsachen im Falle Waldemar,"Bevor die Doktoren D. und F. sich zu mir wendeten, um mir den Zustand ihres Patienten zu schildern, hatten sie diesem ein letztes Lebewohl geboten.",0,0,25
+660,Tatsachen im Falle Waldemar,"Es hatte nicht in ihrer Absicht gelegen, wiederzukommen, auf mein Ersuchen jedoch erklärten sie sich bereit, gegen zehn Uhr am folgenden Abend noch einmal nach dem Kranken sehen zu wollen.",0,0,30
+661,Tatsachen im Falle Waldemar,"Als sie gegangen waren, sprach ich mit Herrn Waldemar ganz offen über seine bevorstehende Auflösung und vor allem sehr eingehend über das beabsichtigte Experiment.",0,0,24
+662,Tatsachen im Falle Waldemar,"Er zeigte sich noch immer ganz willig, ja sogar begierig und bat mich, sogleich zu beginnen.",1,0,16
+663,Tatsachen im Falle Waldemar,"Ein Pfleger und eine Pflegerin waren anwesend, aber ich fühlte mich nicht ganz berechtigt, mich einer so bedeutungsvollen Aufgabe zu unterziehen, ohne daß für den Fall eines unerwarteten Ereignisses zuverlässigere Zeugen zugegen waren als diese beiden Leute.",1,0,37
+664,Tatsachen im Falle Waldemar,"Ich verschob daher meine Maßnahmen bis zum anderen Abend gegen acht Uhr, wo das Eintreffen eines Studenten der Medizin, des Herrn Theodor L...l, zu dem ich einige Beziehungen hatte, mich weiterer Befürchtungen enthob.",0,0,33
+665,Tatsachen im Falle Waldemar,"Ursprünglich war es meine Absicht gewesen, auf die Ärzte zu warten, doch ich war gezwungen anzufangen, erstens infolge der dringenden Bitten Waldemars und zweitens infolge meiner Überzeugung, daß nicht eine Minute zu verlieren sei, denn es ging ersichtlich zu Ende mit ihm.",0,0,42
+666,Tatsachen im Falle Waldemar,"Herr L...l war so gütig, meinem Ersuchen, den Vorgang schriftlich festzuhalten, willig nachzukommen;",0,0,13
+667,Tatsachen im Falle Waldemar,"und das, was ich jetzt berichte, ist zum großen Teile eine gedrängte oder wörtliche Wiedergabe seiner Aufzeichnungen.",1,0,17
+668,Tatsachen im Falle Waldemar,"Es war etwa fünf Minuten vor acht, als ich den Patienten bei der Hand nahm und ihn bat, Herrn L...l so klar als möglich anzugeben, ob er, Herr Waldemar, durchaus gewillt sei, daß ich in seinem gegenwärtigen Zustande den Mesmerismus bei ihm anwende.",0,0,43
+669,Tatsachen im Falle Waldemar,"Er antwortete mit schwacher, aber verständlicher Stimme:",0,0,7
+670,Tatsachen im Falle Waldemar,"Ja, ich wünsche hypnotisiert zu werden ...",0,0,7
+671,Tatsachen im Falle Waldemar,und fügte gleich darauf hinzu:,0,0,5
+672,Tatsachen im Falle Waldemar,"Ich fürchte, Sie haben es schon zu lange hinausgeschoben.",1,0,9
+673,Tatsachen im Falle Waldemar,"Während er noch sprach, begann ich mit dem Streichen;",1,0,9
+674,Tatsachen im Falle Waldemar,"ich zog die Striche, die ich bereits früher am wirksamsten bei ihm angewendet hatte.",1,0,14
+675,Tatsachen im Falle Waldemar,"Schon als ich meine Hand zum erstenmal seitwärts über seine Stirn zog, erzielte ich eine gewisse Wirkung; doch obgleich ich meine ganze Macht erschöpfte, war bis einige Minuten nach zehn, als die Doktoren D. und F. vorsprachen, kein bemerkenswerter Erfolg zu verzeichnen gewesen.",0,0,43
+676,Tatsachen im Falle Waldemar,"Ich erklärte den Ärzten in kurzen Worten mein Vorhaben, und da sie nichts dagegen einzuwenden hatten, weil der Kranke schon in Agonie lag, setzte ich meine Versuche unverzüglich fort.",1,0,29
+677,Tatsachen im Falle Waldemar,Statt der seitlichen Striche machte ich jedoch jetzt solche von oben nach unten und konzentrierte meinen Blick auf das rechte Auge des Leidenden.,1,0,23
+678,Tatsachen im Falle Waldemar,Sein Puls war kaum wahrnehmbar;,1,0,5
+679,Tatsachen im Falle Waldemar,er atmete röchelnd und in Intervallen von einer halben Minute.,1,0,10
+680,Tatsachen im Falle Waldemar,Eine Viertelstunde lang blieb sein Zustand unverändert.,1,0,7
+681,Tatsachen im Falle Waldemar,"Nach Ablauf dieser Frist jedoch entrang sich der Brust des Sterbenden ein tiefer Seufzer, und das Röcheln war nicht mehr zu vernehmen;",1,0,22
+682,Tatsachen im Falle Waldemar,die Atmungsintervalle blieben dieselben.,1,0,4
+683,Tatsachen im Falle Waldemar,Die Gliedmaßen des Patienten waren von eisiger Kälte.,1,0,8
+684,Tatsachen im Falle Waldemar,Fünf Minuten vor elf ließen sich unwiderlegliche Anzeichen mesmeristischer Einwirkung bemerken.,1,0,11
+685,Tatsachen im Falle Waldemar,"Der glasige Ausdruck des rollenden Auges verwandelte sich in den Ausdruck nach innen gekehrten Sinnens und Suchens, wie er nur bei Somnambulen zu finden ist.",1,0,25
+686,Tatsachen im Falle Waldemar,"Mit ein paar schnellen Querstrichen brachte ich die Augenlider zum Beben, und nach einigen weiteren Strichen schlossen sie sich ganz.",1,0,20
+687,Tatsachen im Falle Waldemar,"Dieser Erfolg genügte mir aber nicht, ich fuhr vielmehr eifrig und mit äußerster Willensanstrengung so lange fort, bis die Glieder des Schläfers, die ich zunächst in eine bequeme Lage gebracht hatte, vollständig steif geworden waren.",1,0,35
+688,Tatsachen im Falle Waldemar,Die Beine waren lang ausgestreckt;,1,0,5
+689,Tatsachen im Falle Waldemar,die Arme lagen ebenfalls fast gestreckt;,1,0,6
+690,Tatsachen im Falle Waldemar,der Kopf ruhte leicht erhöht in den Kissen.,1,0,8
+691,Tatsachen im Falle Waldemar,"Als dies geschehen war, war es genau Mitternacht, und ich ersuchte die anwesenden Herren, den Zustand Herrn Waldemars zu prüfen.",1,0,20
+692,Tatsachen im Falle Waldemar,"Nach kurzer Untersuchung erklärten sie, daß er sich in ungemein tiefer Trance befinde.",1,0,13
+693,Tatsachen im Falle Waldemar,Die Neugier beider Ärzte war in höchstem Grade geweckt.,1,0,9
+694,Tatsachen im Falle Waldemar,"Dr. D. beschloß sofort, die ganze Nacht bei dem Patienten zu verbringen, während Dr. F. sich mit dem Versprechen verabschiedete, bei Tagesanbruch wiederzukommen.",0,0,23
+695,Tatsachen im Falle Waldemar,"Herr L...l, der Pfleger und die Pflegerin blieben auch da.",0,0,10
+696,Tatsachen im Falle Waldemar,"Wir ließen nun Herrn Waldemar bis gegen drei Uhr morgens ungestört; dann trat ich zu ihm und fand ihn in derselben Verfassung wie zur Zeit, als Dr. F. fortgegangen war – das will sagen, sein Zustand war unverändert:",0,0,38
+697,Tatsachen im Falle Waldemar,"der Puls kaum fühlbar, der Atem nur mit Hilfe eines dem Kranken vor den Mund gehaltenen Spiegels bemerkbar, die Augen wie im Schlaf geschlossen, die Glieder hart und kalt wie Marmor.",1,0,31
+698,Tatsachen im Falle Waldemar,Dennoch bot er nicht den Anblick eines Toten.,1,0,8
+699,Tatsachen im Falle Waldemar,"Als ich mich Herrn Waldemar näherte, machte ich den schwachen Versuch, seinen rechten Arm der Führung des meinigen zu unterwerfen.",0,0,20
+700,Tatsachen im Falle Waldemar,"Ich hatte bisher in solchen Experimenten bei diesem Patienten kein Glück gehabt, und sicherlich hoffte ich jetzt wenig auf Erfolg.",0,0,20
+701,Tatsachen im Falle Waldemar,"Zu meinem großen Erstaunen aber folgte sein Arm bereitwillig, wenn auch sehr matt, jeder Richtung, die mein Arm ihm vorschrieb.",1,0,20
+702,Tatsachen im Falle Waldemar,"Ich beschloß, ein Gespräch zu wagen.",1,0,6
+703,Tatsachen im Falle Waldemar,"»Herr Waldemar«, sagte ich, »schlafen Sie?«",1,1,6
+704,Tatsachen im Falle Waldemar,"Er gab keine Antwort, doch ich bemerkte ein Zittern um seinen Mund und wurde dadurch veranlaßt, meine Frage ein zweites und drittes Mal zu wiederholen.",1,0,25
+705,Tatsachen im Falle Waldemar,"Als ich sie zum dritten Male stellte, wurde seine ganze Gestalt von einem leichten Schauer befallen:",1,0,16
+706,Tatsachen im Falle Waldemar,"die Augenlider öffneten sich so weit, daß sie ein wenig den weißen Augapfel enthüllten, die Lippen regten sich träge, und in kaum hörbarem Flüstern entrangen sich ihnen die Worte:",1,0,29
+707,Tatsachen im Falle Waldemar,Ja – schlafe jetzt.,1,0,4
+708,Tatsachen im Falle Waldemar,Wecken Sie mich nicht!,1,0,4
+709,Tatsachen im Falle Waldemar,Lassen Sie mich so sterben!,1,0,5
+710,Tatsachen im Falle Waldemar,Ich befühlte seine Gliedmaßen;,1,0,4
+711,Tatsachen im Falle Waldemar,sie waren so eiskalt wie immer.,1,0,6
+712,Tatsachen im Falle Waldemar,Der rechte Arm gehorchte wie vorher der Führung meiner Hand.,1,0,10
+713,Tatsachen im Falle Waldemar,Ich fragte den Magnetisierten von neuem:,1,0,6
+714,Tatsachen im Falle Waldemar,"»Fühlen Sie noch Schmerzen in der Brust, Herr Waldemar?«",1,1,9
+715,Tatsachen im Falle Waldemar,"»Keine Schmerzen – ich sterbe.«
+",1,0,5
+716,Tatsachen im Falle Waldemar,"Ich hielt es nicht für ratsam, ihn gerade jetzt noch weiter zu stören, und bis zur Ankunft des Dr. F. wurde nichts mehr gesprochen;",0,0,24
+717,Tatsachen im Falle Waldemar,"dieser traf kurz vor Sonnenaufgang ein und bekundete grenzenloses Erstaunen, den Patienten noch am Leben zu sehen.",0,0,17
+718,Tatsachen im Falle Waldemar,"Nachdem er ihm den Puls gefühlt und einen Spiegel an die Lippen gehalten hatte, ersuchte er mich, den Schlafwachenden nochmals anzureden.",0,0,21
+719,Tatsachen im Falle Waldemar,Ich folgte der Aufforderung und sagte:,1,0,6
+720,Tatsachen im Falle Waldemar,"»Herr Waldemar, schlafen Sie noch?«
+",1,1,5
+721,Tatsachen im Falle Waldemar,"Wie vordem vergingen einige Minuten, ehe eine Antwort erfolgte, und während dieser Zeit schien der Sterbende seine Energie zu sammeln.",1,0,20
+722,Tatsachen im Falle Waldemar,"Bei der vierten Wiederholung der Frage sagte er sehr schwach, fast unhörbar:",1,0,12
+723,Tatsachen im Falle Waldemar,"»Ja, schlafe noch – sterbe.«",1,0,5
+724,Tatsachen im Falle Waldemar,"Es war jetzt die Ansicht oder vielmehr der Wunsch der Ärzte, daß Herr Waldemar in seinem gegenwärtigen, anscheinend ruhevollen Zustand belassen werden solle, bis der Tod obsiege, und das – darin stimmte man überein – müsse nun in wenigen Minuten erfolgen.",1,0,41
+725,Tatsachen im Falle Waldemar,"Ich beschloß jedoch, noch einmal zu ihm zu sprechen, und wiederholte einfach meine vorige Frage.",1,0,15
+726,Tatsachen im Falle Waldemar,"Während ich sprach, ging mit dem Antlitz des Kranken eine seltsame Veränderung vor.",1,0,13
+727,Tatsachen im Falle Waldemar,"Die Augen öffneten sich langsam, die Pupillen drehten sich so weit nach aufwärts, bis sie ganz unsichtbar waren;",1,0,18
+728,Tatsachen im Falle Waldemar,"die Haut wurde leichenfarben und glich nun weniger dem Pergament als weißem Papier, und die kreisrunden hektischen Flecke, die sich auf jeder Wange streng abzeichneten, erloschen mit einem Male.",1,0,29
+729,Tatsachen im Falle Waldemar,"Ich gebrauche diesen Ausdruck, weil die Plötzlichkeit ihres Verschwindens mich an das plötzliche Erlöschen einer Kerzenflamme, die man ausbläst, erinnerte.",1,0,20
+730,Tatsachen im Falle Waldemar,"Gleichzeitig kräuselte sich die Oberlippe, die bisher die Zähne bedeckt hatte, stark aufwärts, während die untere Kinnlade mit hörbarem Ruck herunterklappte und den Mund weit offen zeigte, in dessen Mitte die geschwollene und schwarz gewordene Zunge voll zu sehen war.",1,0,40
+731,Tatsachen im Falle Waldemar,"Ich vermute, daß keinem der Anwesenden die Schrecken des Totenbettes fremd waren, aber Herr Waldemar bot in diesem Augenblick einen so entsetzlichen Anblick, daß alle aus der Nähe des Bettes zurückwichen.",1,0,31
+732,Tatsachen im Falle Waldemar,"Ich fühle jetzt, daß ich in meiner Erzählung einen Punkt erreicht habe, wo jeder Leser sich ungläubig abwendet.",0,0,18
+733,Tatsachen im Falle Waldemar,"Dessenungeachtet ist es meine Pflicht, fortzufahren.",0,0,6
+734,Tatsachen im Falle Waldemar,"An Herrn Waldemar war nicht das geringste Lebenszeichen mehr zu bemerken, und da wir annahmen, daß er tot sei, wollten wir ihn der Obhut der Pflegeleute überlassen, als seine Zunge von einer heftigen Vibration ergriffen wurde.",1,0,36
+735,Tatsachen im Falle Waldemar,Diese hielt wohl eine Minute lang an.,1,0,7
+736,Tatsachen im Falle Waldemar,"Nach Ablauf dieser Zeit tönte zwischen den weitgeöffneten und regungslosen Kinnladen eine Stimme hervor – es wäre Wahnsinn, sie beschreiben zu wollen.",1,0,22
+737,Tatsachen im Falle Waldemar,"Es gibt wohl zwei oder drei Vergleiche, die man hier anwenden könnte;",1,0,12
+738,Tatsachen im Falle Waldemar,"ich könnte zum Beispiel sagen, daß der Laut heiser und gebrochen und hohl klang;",1,0,14
+739,Tatsachen im Falle Waldemar,"aber die Fürchterlichkeit des Ganzen ist unbeschreiblich, aus dem einfachen Grunde, weil niemals menschliche Ohren ähnliche Laute vernommen haben.",1,0,19
+740,Tatsachen im Falle Waldemar,"Dennoch waren da zwei Besonderheiten, die, wie ich damals meinte – und auch heute noch denke – als charakteristisch für den Klang angeführt werden können.",1,0,25
+741,Tatsachen im Falle Waldemar,Erstens schien die Stimme an unsere Ohren – an meine wenigstens – aus weiter Ferne zu dringen oder aus einer tiefen Höhle aus dem Erdinnern.,1,0,25
+742,Tatsachen im Falle Waldemar,"Zweitens (ich fürchte in der Tat, daß es mir unmöglich sein wird, mich verständlich zu machen) –, zweitens empfand mein Gehörsinn diese Laute so, wie etwa der Gefühlsinn gallertartige oder klebrige Dinge empfindet.",1,0,33
+743,Tatsachen im Falle Waldemar,Ich sprach sowohl von ›Laut‹ als von ›Stimme‹.,0,0,8
+744,Tatsachen im Falle Waldemar,"Ich will damit sagen, daß der Laut von klarer, von wundersam ergreifender Deutlichkeit der Worte war.",0,0,16
+745,Tatsachen im Falle Waldemar,"Herr Waldemar
+sprach
+– und vermutlich in Erwiderung der Frage, die ich ihm ein paar Minuten vorher gestellt hatte.",1,0,19
+746,Tatsachen im Falle Waldemar,"Man wird sich erinnern, daß ich ihn gefragt hatte, ob er noch schlafe.",1,0,13
+747,Tatsachen im Falle Waldemar,Er sagte jetzt:,1,0,3
+748,Tatsachen im Falle Waldemar,Ja,1,0,1
+749,Tatsachen im Falle Waldemar,nein,1,0,1
+750,Tatsachen im Falle Waldemar,ich habe geschlafen,1,0,3
+751,Tatsachen im Falle Waldemar,und jetzt,1,0,2
+752,Tatsachen im Falle Waldemar,"jetzt
+bin ich tot.",1,0,4
+753,Tatsachen im Falle Waldemar,"Keiner der Anwesenden machte auch nur den Versuch, das unerhörte, schaudernde Entsetzen zu verbergen, das diese wenigen so fürchterlich gesprochenen Worte ihm eingeflößt hatten.",1,0,24
+754,Tatsachen im Falle Waldemar,"Herr L...l, der Student, wurde ohnmächtig.",1,0,6
+755,Tatsachen im Falle Waldemar,Die Pflegeleute verließen sofort das Zimmer und konnten nicht zur Rückkehr veranlaßt werden.,1,0,13
+756,Tatsachen im Falle Waldemar,"Meine eigenen Empfindungen darf ich gar nicht versuchen, dem Leser nahezubringen.",1,0,11
+757,Tatsachen im Falle Waldemar,Fast eine Stunde lang bemühten wir uns schweigend – vollkommen schweigend – Herrn L...l ins Leben zurückzurufen.,1,0,17
+758,Tatsachen im Falle Waldemar,"Als er wieder zu sich gekommen war, befaßten wir uns von neuem mit der Untersuchung von Herrn Waldemars Zustand.",1,0,19
+759,Tatsachen im Falle Waldemar,"Er blieb in jeder Hinsicht genau so, wie ich ihn zuletzt beschrieben habe, ausgenommen, daß der Spiegel keine Atmung mehr erkennen ließ.",1,0,22
+760,Tatsachen im Falle Waldemar,"Ein Versuch, aus dem Arm Blut zu ziehen, schlug fehl.",1,0,10
+761,Tatsachen im Falle Waldemar,"Ich muß ferner erwähnen, daß dies Glied meinem Willen nicht mehr unterworfen war.",1,0,13
+762,Tatsachen im Falle Waldemar,"Der einzige wirkliche Beweis mesmeristischer Einwirkung war nur mehr in der Vibration der Zunge zu erkennen, sobald ich an Herrn Waldemar eine Frage stellte.",1,0,24
+763,Tatsachen im Falle Waldemar,"Er schien jedesmal eine Anstrengung zu machen, um zu antworten, hatte aber nicht mehr genug Willenskraft.",1,0,16
+764,Tatsachen im Falle Waldemar,"Für Fragen, die irgendeine andere Person an ihn richtete, schien er durchaus unempfänglich – obgleich ich mich bemühte, einen jeden aus der Versammlung in mesmeristischen Rapport mit ihm zu setzen.",1,0,30
+765,Tatsachen im Falle Waldemar,"Ich glaube, ich habe nun alles erzählt, was zum Verständnis für des Schlafwachenden damaligen Zustand notwendig ist.",0,0,17
+766,Tatsachen im Falle Waldemar,"Anderes Pflegepersonal wurde beschafft, und um zehn Uhr verließ ich das Haus, in Begleitung der beiden Ärzte und des Herrn L...l.",0,0,21
+767,Tatsachen im Falle Waldemar,"Am Nachmittag gingen wir alle wieder hin, um den Patienten zu sehen.",0,0,12
+768,Tatsachen im Falle Waldemar,Sein Befinden war vollkommen unverändert.,0,0,5
+769,Tatsachen im Falle Waldemar,"Wir hatten nun eine Besprechung dar über, ob es richtig und tunlich sei, ihn aufzuwecken;",0,0,15
+770,Tatsachen im Falle Waldemar,"aber es wurde uns nicht schwer, dahin übereinzukommen, daß ein solches Vorgehen nichts Gutes fördern könne.",0,0,16
+771,Tatsachen im Falle Waldemar,"Es war evident, daß bis jetzt der Tod (oder was man gewöhnlich Tod nennt) durch das mesmeristische Verfahren aufgehalten worden war.",0,0,21
+772,Tatsachen im Falle Waldemar,"Es schien uns allen klar, daß ein Aufwecken Herrn Waldemars lediglich dessen augenblickliche oder zum mindesten sehr schnelle Auflösung zur Folge haben werde.",0,0,23
+773,Tatsachen im Falle Waldemar,"Seit damals bis Ende letzter Woche – eine Zeitdauer von fast sieben Monaten – fuhren wir fort, täglich bei Herrn Waldemar nachzusehen, manchmal auch in Begleitung von Medizinern oder anderen Freunden.",0,0,31
+774,Tatsachen im Falle Waldemar,"Diese ganze Zeit über verblieb der Schlafwachende in
+genau
+dem Zustande, wie ich ihn vorhin geschildert habe.",0,0,17
+775,Tatsachen im Falle Waldemar,Die Pfleger widmeten ihm beständige Aufmerksamkeit.,0,0,6
+776,Tatsachen im Falle Waldemar,"Es war am letzten Freitag, als wir schließlich beschlossen, den Versuch zu machen, ihn zu erwecken;",1,0,16
+777,Tatsachen im Falle Waldemar,"und es ist vermutlich der unglückliche Ausgang dieses Experimentes, das in Laienkreisen zu so vielen Erörterungen Anlaß gab, die ich nicht anders als ungerechtfertigt bezeichnen kann.",1,0,26
+778,Tatsachen im Falle Waldemar,"Um Herrn Waldemar aus der Trance zu erwecken, brachte ich die üblichen Striche zur Anwendung. ",1,0,15
+779,Tatsachen im Falle Waldemar,Diese waren eine Zeitlang erfolglos.,1,0,5
+780,Tatsachen im Falle Waldemar,Das erste Anzeichen von Wiederbelebung bot sich in einer teilweisen Herabsenkung der Iris.,1,0,13
+781,Tatsachen im Falle Waldemar,"Als besonders bemerkenswert wurde festgestellt, daß diese Senkung der Pupille begleitet war von dem heftigen Ausfluß eines gelblichen Blutwassers, das unter den Lidern hervorlief und von sehr üblem Geruch war.",1,0,30
+782,Tatsachen im Falle Waldemar,"Es wurde nun angeregt, daß ich versuchen solle, wie früher den Arm des Patienten mir gehorsam zu machen.",1,0,18
+783,Tatsachen im Falle Waldemar,"Ich machte den Versuch, und er mißlang.",1,0,7
+784,Tatsachen im Falle Waldemar,"Dr. F. äußerte dann den Wunsch, ich solle eine Frage stellen.",1,0,11
+785,Tatsachen im Falle Waldemar,"Ich tat dies, wie folgt:",1,0,5
+786,Tatsachen im Falle Waldemar,"Herr Waldemar, können Sie uns klarmachen, was Sie jetzt fühlen oder wünschen?",1,1,12
+787,Tatsachen im Falle Waldemar,"Sofort kehrten die hektischen Wangenflecke zurück, die Zunge zuckte, oder besser, sie rollte heftig im Munde hin und her (obgleich Kinnladen und Mund wie vorher weit aufgerissen blieben), und schließlich stürzte dieselbe grauenhafte Stimme hervor, die ich bereits beschrieben habe:",1,0,40
+788,Tatsachen im Falle Waldemar,Um Gottes willen,1,0,3
+789,Tatsachen im Falle Waldemar,schnell,1,0,1
+790,Tatsachen im Falle Waldemar,schnell,1,0,1
+791,Tatsachen im Falle Waldemar,bringen Sie mich wieder in Schlaf ,1,0,6
+792,Tatsachen im Falle Waldemar,"oder, schnell",1,0,2
+793,Tatsachen im Falle Waldemar,erwecken Sie mich,1,0,3
+794,Tatsachen im Falle Waldemar,schnell ,1,0,1
+795,Tatsachen im Falle Waldemar,"Ich sage Ihnen, ich bin tot.",1,0,6
+796,Tatsachen im Falle Waldemar,"Ich war so furchtbar entsetzt, daß ich einen Moment lang nicht wußte, was beginnen.",1,0,14
+797,Tatsachen im Falle Waldemar,"Zuerst machte ich den Versuch, den Patienten wieder zu beruhigen;",1,0,10
+798,Tatsachen im Falle Waldemar,"da mir das aber infolge mangelnder Energie vollständig mißlang, änderte ich meine Maßnahmen und bemühte mich ebenso eifrig, ihn zu erwecken.",1,0,21
+799,Tatsachen im Falle Waldemar,"Ich sah bald, daß ich hierin Erfolg haben würde – oder wenigstens bildete ich mir ein, ein günstiges Resultat erzielen zu können;",1,0,22
+800,Tatsachen im Falle Waldemar,"und ich bin gewiß, daß alle Anwesenden darauf vorbereitet waren, den Patienten erwachen zu sehen.",1,0,15
+801,Tatsachen im Falle Waldemar,"Denn auf das, was sich wirklich ereignete, konnte unmöglich irgendein menschliches Wesen vorbereitet sein.",1,0,14
+802,Tatsachen im Falle Waldemar,"Während ich heftig die mesmeristischen Striche ausführte, inmitten der heulenden Rufe »tot – tot«, die geradezu der Zunge – nicht den Lippen – des Leidenden entquollen, geschah es, daß seine ganze Gestalt urplötzlich – innerhalb einer einzigen Minute – zusammenschrumpfte – zerfiel – unter meinen Händen hinwegfaulte.",1,0,47
+803,Tatsachen im Falle Waldemar,"Auf dem Bett vor der ganzen Versammlung lag eine ekelhafte, stinkende Masse.",1,0,12
