@@ -16,8 +16,8 @@ def textscrape(filename, url):
     tex=text.replace('\xa0','')
     with open(filename, 'w', encoding='utf-8') as file:
         file.write(tex)
-
-textscrape("test.txt", url1)
+#lediglich zur einmaligen Benutzung gedacht
+#textscrape("test.txt", url1)
 
 #notiz:
 # - händische nachkorrektur der texte notwendig, da die p-tags von der website so komisch sind >:-(
