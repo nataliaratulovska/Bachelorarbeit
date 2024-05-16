@@ -20,10 +20,14 @@ def normal(df, column):
     stat, p = normaltest(df[column])
     return pandas.Series([p], index=['p-Wert'])
 
+print('\n\nErgebnis Test Normalverteilung (für die Länge der Sätze) Gruppe A:\n')
 print(normal(csv, 'Satzlänge'))
+print('\n\nErgebnis Test Normalverteilung (für die Länge der Sätze) Gruppe B:\n')
 print(normal(csv_cg, 'Satzlänge'))
 
-##H01: Fragesätze kommen in suspense sätzen weniger häufig vor als in nicht-suspense sätzen
+#########################################################################################
+
+#H01: Fragesätze kommen in suspense sätzen genauso häufig vor wie in nicht-suspense sätzen
 def chi2extended(Spalte1, Spalte2, df):
     #Kontingenztabelle
     con = pandas.crosstab(df[Spalte1], df[Spalte2])
@@ -36,12 +40,13 @@ def chi2extended(Spalte1, Spalte2, df):
 
 
 #Für alle Erzählungen
+print('\n\nErgebnis H01 für Gruppe A (auf alle Erzählungen angewendet):\n')
 print(chi2extended('Suspense', 'Fragesatz', csv))
-#Für alle Erzählungen Kontrollgruppe
+#Für alle Erzählungen Vergleichsgruppe
+print('\n\nErgebnis H01 für Gruppe B (auf alle Erzählungen angewendet):\n')
 print(chi2extended('Suspense', 'Fragesatz', csv_cg))
 
 #Ein Schritt weiter gedacht: auf einzelne Erzählungen angewendet
-
 stories = csv.groupby('Titel')
 stories_cg = csv_cg.groupby('Titel')
 def chi2extendedgroup(group):
@@ -54,7 +59,9 @@ def chi2extendedgroup(group):
     return pandas.Series([chi2, p, pearson], index=['chi2', 'pvalue', 'pearson'])
 
 #Für jede Erzählung einzeln
+print('\n\nErgebnis H01 für Gruppe A (auf einzelne Erzählungen angewendet):\n')
 print(stories.apply(chi2extendedgroup))
+print('\n\nErgebnis H01 für Gruppe B (auf einzelne Erzählungen angewendet):\n')
 print(stories_cg.apply(chi2extendedgroup))
 
 
@@ -75,7 +82,7 @@ def whitney(df):
     z = (U - nx * ny / 2 + 0.5) / math.sqrt(nx * ny * (N + 1) / 12)
     r=abs(z/math.sqrt(nx+ny))
 
-    return pandas.Series([U, p, r], index=['U-Wert', 'p-Wert',"r"])
+    return pandas.Series([U, p, r, z], index=['U-Wert', 'p-Wert',"r","z"])
 
 
 
@@ -93,12 +100,14 @@ def whitneygroup(group):
     z = (U - nx * ny / 2 + 0.5) / math.sqrt(nx * ny * (N + 1) / 12)
     r=abs(z/math.sqrt(nx+ny))
 
-    return pandas.Series([U, p, r], index=['U-Wert', 'p-Wert',"r"])
+    return pandas.Series([U, p, r,z], index=['U-Wert', 'p-Wert',"r","z"])
 
-
+print('\n\nErgebnis H02 für Gruppe A (auf alle Erzählungen angewendet):\n')
 print(whitney(csv))
+print('\n\nErgebnis H02 für Gruppe B (auf alle Erzählungen angewendet):\n')
 print(whitney(csv_cg))
 
-
+print('\n\nErgebnis H02 für Gruppe A (auf einzelne Erzählungen angewendet):\n')
 print(stories.apply(whitneygroup))
+print('\n\nErgebnis H02 für Gruppe B (auf einzelne Erzählungen angewendet):\n')
 print(stories_cg.apply(whitneygroup))
