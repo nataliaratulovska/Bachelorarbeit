@@ -33,7 +33,7 @@ def chi2extended(Spalte1, Spalte2, df):
     con = pandas.crosstab(df[Spalte1], df[Spalte2])
     #chi2test
     chi2, p, _, _ = chi2_contingency(con)
-    # Fortführung: Kontingenzkoeffizient/Cramers V
+    # Fortführung: Kontingenzkoeffizient
     pearson = association(con, method="pearson")
     #cramers = association(con, method="cramer")
     return pandas.Series([chi2, p, pearson], index=['chi2', 'pvalue', 'Kontingenzkoeffizient'])
