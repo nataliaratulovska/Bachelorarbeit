@@ -1,6 +1,6 @@
 # Willkommen bei der Dokumentation meiner Bacherlorarbeit
 
-<p align="left">(<a href="#readme-english">English Version</a>)</p>
+<p align="left"><a href="#readme-english">Click here for English Version</a></p>
 
 ## Über das Projekt
 Unter dem Titel "Statistische Suspense Analyse in fiktiven Erzählungen des frühen 19. Jahrhunderts" forschte ich an der Korrelation zwischen Suspense und Fragesätzen, sowie den Auswirkungen von Suspense auf die Satzlänge.
@@ -12,7 +12,7 @@ Die Bachelorarbeit selbst befindet sich hier ebenfalls auf deutsch und auf engli
 Jeglicher Code befindet sich unter "Python". In den weiteren Unterordnern lassen sich die CSV Dateien, Plots und Text Dateien finden.
 Unter "stat results" befinden sich die Ergebisse der statistischen Tests nochmal zusammengefasst, ansonst kann dafür auch einmal die Statistik.py durchgelaufen werden.
 cvs_prep.py dient dafür, die aus Catma exportierte Datei für die hier gebrauchten Bedürfnisse anzupassen. Plots.py umfasst Code für die in der Arbeit verwendeten Plots.
-
+![Dateistruktur](Python/Plots/flowchart%20project.png)
 
 ## Lizenz
 Verteilt unter der MIT-Lizenz. Siehe `License.txt` für weitere Informationen.
