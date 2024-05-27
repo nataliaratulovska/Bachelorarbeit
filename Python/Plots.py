@@ -266,13 +266,24 @@ def boxy(df):
 
     fig, ax = plt.subplots()
     data=[s1, s0]
-    labels=['1','0']
-    ax.boxplot(data, labels=labels)
+    labels=['Suspense\nSatz','Regulärer\nSatz']
+    box=ax.boxplot(data, tick_labels=labels, patch_artist=True)
+
+    colors = ['crimson', 'mediumseagreen']
+    for patch, color in zip(box['boxes'], colors):
+        patch.set_facecolor(color)
+
+    for median in box['medians']:
+        median.set_color('black')
+        median.set_linewidth(2)
 
     #Beschriftung
-    ax.set_xlabel('Suspense')
-    ax.set_ylabel('Länge der Sätze in Wörtern')
-    ax.set_title('Boxplot für bla, noch besser benennen')
+    #plt.ylim(0, 100)
+    ax.set_ylabel('Durchschnittliche Länge der Sätze in Wörtern')
+    ax.set_title('Boxplot der Erzählung "'+df["Titel"].tolist()[1]+'"', pad=20)
     plt.show()
 
 boxy(g2_cg)
+boxy(g3_cg)
+boxy(g2)
+boxy(g3)
