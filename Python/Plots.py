@@ -255,3 +255,24 @@ add_labels(balken2)
 
 plt.tight_layout()
 plt.show()
+
+#################################
+
+#Boxplot
+
+def boxy(df):
+    s1 = df[df['Suspense']== '1']['Satzlänge']
+    s0 = df[df['Suspense']== '0']['Satzlänge']
+
+    fig, ax = plt.subplots()
+    data=[s1, s0]
+    labels=['1','0']
+    ax.boxplot(data, labels=labels)
+
+    #Beschriftung
+    ax.set_xlabel('Suspense')
+    ax.set_ylabel('Länge der Sätze in Wörtern')
+    ax.set_title('Boxplot für bla, noch besser benennen')
+    plt.show()
+
+boxy(g2_cg)
