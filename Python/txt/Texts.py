@@ -22,4 +22,4 @@ def textscrape(filename, url):
 #notiz:
 # - händische nachkorrektur der texte notwendig, da die p-tags von der website so komisch sind >:-(
 # - ich musste scrapen, da falsche gutenberg seite (html und nicht txt)
-# - nachkorrektur: es musste nur der fremde gescraped werden, da die restlichen texte unter textgridrep.org  verfügbar waren
+# - nachkorrektur: es musste nur der fremde gescraped werden, da die restlichen texte unter textgridrep.org verfügbar waren
