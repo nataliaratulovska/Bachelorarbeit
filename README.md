@@ -1,5 +1,5 @@
 TO-DO:
-- Bug im whitney test?? https://stats.stackexchange.com/questions/116315/problem-with-mann-whitney-u-test-in-scipy, andere funktion ausprobieren!
+- stat ergebnisse nachbessern, whitney du kannst mich mal und stats bibliothek auch >:-(
 - Boxplot hinzufügen + interpretieren
 - Gruppe A und B zusammen testen
 

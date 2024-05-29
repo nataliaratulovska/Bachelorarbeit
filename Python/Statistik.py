@@ -12,6 +12,7 @@ df_cg = pandas.read_csv('annotated csv/python_edit_cg.csv')
 #Es werden Daten ausgelassen, die für die Analyse nicht von Bedeutung sind, z. B. die Sprechernamen im "Der Fremde", da hierdurch das Ergbnis verfälscht wird.
 csv = df.drop(df[df.Suspense == '-'].index)
 csv_cg = df_cg.drop(df_cg[df_cg.Suspense == '-'].index)
+bigmomma = pandas.concat([csv, csv_cg], axis=0)
 
 ##Test ob Daten normalverteilt
 #https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.normaltest.html -> H0 des Tests immer, dass Normalverteilung vorherrscht
@@ -72,12 +73,10 @@ def whitney(df):
     s = df[df['Suspense']== '1']['Satzlänge']
     nos = df[df['Suspense']=='0']['Satzlänge']
     #U-Test
-    U1, p = mannwhitneyu(nos, s, alternative='two-sided')
+    U, p = mannwhitneyu(nos, s, alternative='two-sided')
     #von https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mannwhitneyu.html
     #Berechnung der Effektstärke
     nx, ny = len(s), len(nos)
-    U2 = nx * ny - U1
-    U = min(U1, U2)
     N = nx + ny
     z = (U - nx * ny / 2 + 0.5) / math.sqrt(nx * ny * (N + 1) / 12)
     r=abs(z/math.sqrt(nx+ny))
@@ -85,29 +84,16 @@ def whitney(df):
     return pandas.Series([U, p, r, z], index=['U-Wert', 'p-Wert',"r","z"])
 
 
-
-def whitneygroup(group):
-    s = group[group['Suspense'] == '1']['Satzlänge']
-    nos = group[group['Suspense'] == '0']['Satzlänge']
-    #U-Test
-    U1, p = mannwhitneyu(nos, s, alternative='two-sided')
-    #von https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mannwhitneyu.html
-    #Berechnung der Effektstärke
-    nx, ny = len(s), len(nos)
-    U2 = nx * ny - U1
-    U = min(U1, U2)
-    N = nx + ny
-    z = (U - nx * ny / 2 + 0.5) / math.sqrt(nx * ny * (N + 1) / 12)
-    r=abs(z/math.sqrt(nx+ny))
-
-    return pandas.Series([U, p, r,z], index=['U-Wert', 'p-Wert',"r","z"])
-
 print('\n\nErgebnis H02 für Gruppe A (auf alle Erzählungen angewendet):\n')
 print(whitney(csv))
 print('\n\nErgebnis H02 für Gruppe B (auf alle Erzählungen angewendet):\n')
 print(whitney(csv_cg))
 
 print('\n\nErgebnis H02 für Gruppe A (auf einzelne Erzählungen angewendet):\n')
-print(stories.apply(whitneygroup))
+print(stories.apply(whitney))
 print('\n\nErgebnis H02 für Gruppe B (auf einzelne Erzählungen angewendet):\n')
-print(stories_cg.apply(whitneygroup))
+print(stories_cg.apply(whitney))
+
+print('\n\nErgebnis für GruppeA+GruppeB')
+print(whitney(bigmomma))
+print(chi2extended('Suspense', 'Fragesatz',bigmomma))
