@@ -1,5 +1,7 @@
 TO-DO:
--Bug im whitney test?? https://stats.stackexchange.com/questions/116315/problem-with-mann-whitney-u-test-in-scipy, andere funktion ausprobieren!
+- Bug im whitney test?? https://stats.stackexchange.com/questions/116315/problem-with-mann-whitney-u-test-in-scipy, andere funktion ausprobieren!
+- Boxplot hinzufügen + interpretieren
+- Gruppe A und B zusammen testen
 
 
 ## Willkommen bei der Dokumentation meiner Bacherlorarbeit
