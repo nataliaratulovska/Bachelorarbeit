@@ -1,9 +1,9 @@
-Titel;p-Wert;Chi2-Wert;Kontingenzkoeffizient
-Gruppe A;0,000540;11,973589;0,167922
-Das Bettelweib von Locarno;1,000000;0,000000;
-Der Fremde;0,045144;4,013249;0,187742
-Der Untergang des Hauses Usher;0,008742;6,874867;0,173050
-Gruppe B;0,663548;0,189242;
-Am Kamin;0,698949;0,149568;
-Eine Spukgeschichte;0,481601;0,495237;
-Tatsachen im Falle Waldemar;0,345145;0,891227;
+Titel,p-Wert,Chi2-Wert,Kontingenzkoeffizient
+Gruppe A,0.000540,11.973589,0.167922
+Das Bettelweib von Locarno,1.000000,0.000000,
+Der Fremde,0.045144,4.013249,0.187742
+Der Untergang des Hauses Usher,0.008742,6.874867,0.173050
+Gruppe B,0.663548,0.189242,
+Am Kamin,0.698949,0.149568,
+Eine Spukgeschichte,0.481601,0.495237,
+Tatsachen im Falle Waldemar,0.345145,0.891227,
