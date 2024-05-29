@@ -1,3 +1,7 @@
+TO-DO:
+-Bug im whitney test?? https://stats.stackexchange.com/questions/116315/problem-with-mann-whitney-u-test-in-scipy, andere funktion ausprobieren!
+
+
 ## Willkommen bei der Dokumentation meiner Bacherlorarbeit
 
 <p align="left"><a href="#readme-english">Click here for English Version</a></p>
