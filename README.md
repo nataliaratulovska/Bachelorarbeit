@@ -8,7 +8,7 @@ Dieses Repository dient dazu, meine erzielten Ergebnisse zu dokumentieren. Hier 
 Die Bachelorarbeit selbst befindet sich hier ebenfalls auf deutsch und auf englisch im Ordner "Bachelor Thesis" (Lizenz: CC-BY-SA). 
 
 ### Repository Struktur
-Jeglicher Code befindet sich unter "Python". In den weiteren Unterordnern lassen sich die CSV Dateien, Plots und Text Dateien finden.
+Jeglicher Code befindet sich unter "Python". In den weiteren Unterordnern lassen sich die CSV Dateien (hier sind vor allem die Dateien wichtig, die mit pythonedit gekennzeichnet sind), Plots und Text Dateien finden.
 Unter "stat results" befinden sich die Ergebisse der statistischen Tests nochmal zusammengefasst, ansonst kann dafür auch einmal die Statistik.py durchgelaufen werden.
 cvs_prep.py dient dafür, die aus Catma exportierte Datei für die hier gebrauchten Bedürfnisse anzupassen. Plots.py umfasst Code für die in der Arbeit verwendeten Plots.
 
