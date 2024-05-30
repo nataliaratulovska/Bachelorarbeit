@@ -17,7 +17,7 @@ Jeglicher Code befindet sich unter "Python". In den weiteren Unterordnern lassen
 Unter "stat results" befinden sich die Ergebisse der statistischen Tests nochmal zusammengefasst, ansonst kann dafür auch einmal die Statistik.py durchgelaufen werden.
 cvs_prep.py dient dafür, die aus Catma exportierte Datei für die hier gebrauchten Bedürfnisse anzupassen. Plots.py umfasst Code für die in der Arbeit verwendeten Plots.
 
-<p align="center">![Dateistruktur](Python/Plots/flowchart%20project.png)</p>
+<img align="center">![Dateistruktur](Python/Plots/flowchart%20project.png)</img>
 
 ### Lizenz
 Verteilt unter der MIT-Lizenz. Siehe `License.txt` für weitere Informationen.
