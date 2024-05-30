@@ -1,8 +1,5 @@
 TO-DO:
-- stat ergebnisse nachbessern, whitney du kannst mich mal und stats bibliothek auch >:-(
 - Boxplot hinzufügen + interpretieren
-- Gruppe A und B zusammen testen
-
 
 ## Willkommen bei der Dokumentation meiner Bacherlorarbeit
 
