@@ -29,9 +29,9 @@ print(normal(csv_cg, 'Satzlänge'))
 #########################################################################################
 
 #H01: Fragesätze kommen in suspense sätzen genauso häufig vor wie in nicht-suspense sätzen
-def chi2extended(Spalte1, Spalte2, df):
+def chi2extended(df):
     #Kontingenztabelle
-    con = pandas.crosstab(df[Spalte1], df[Spalte2])
+    con = pandas.crosstab(df['Suspense'], df['Fragesatz'])
     #chi2test
     chi2, p, _, _ = chi2_contingency(con)
     # Fortführung: Kontingenzkoeffizient
@@ -42,31 +42,25 @@ def chi2extended(Spalte1, Spalte2, df):
 
 #Für alle Erzählungen
 print('\n\nErgebnis H01 für Gruppe A (auf alle Erzählungen angewendet):\n')
-print(chi2extended('Suspense', 'Fragesatz', csv))
+print(chi2extended(csv))
 #Für alle Erzählungen Vergleichsgruppe
 print('\n\nErgebnis H01 für Gruppe B (auf alle Erzählungen angewendet):\n')
-print(chi2extended('Suspense', 'Fragesatz', csv_cg))
+print(chi2extended(csv_cg))
 
 #Ein Schritt weiter gedacht: auf einzelne Erzählungen angewendet
 stories = csv.groupby('Titel')
 stories_cg = csv_cg.groupby('Titel')
-def chi2extendedgroup(group):
-    #Kontingenztabelle
-    con = pandas.crosstab(group['Suspense'].values, group['Fragesatz'].values)
-    #chi2Test
-    chi2, p, _, _ = chi2_contingency(con)
-    # Fortführung: Kontingenzkoeffizient
-    pearson = association(con, method="pearson")
-    return pandas.Series([chi2, p, pearson], index=['chi2', 'pvalue', 'pearson'])
 
 #Für jede Erzählung einzeln
 print('\n\nErgebnis H01 für Gruppe A (auf einzelne Erzählungen angewendet):\n')
-print(stories.apply(chi2extendedgroup))
+print(stories.apply(chi2extended))
 print('\n\nErgebnis H01 für Gruppe B (auf einzelne Erzählungen angewendet):\n')
-print(stories_cg.apply(chi2extendedgroup))
+print(stories_cg.apply(chi2extended))
 
 
 ######################################################
+
+
 #H02: Die Länge der Sätze variiert zwischen suspense und nicht-suspense Sätzen nicht.
 
 def whitney(df):
@@ -81,7 +75,7 @@ def whitney(df):
     z = (U - nx * ny / 2 + 0.5) / math.sqrt(nx * ny * (N + 1) / 12)
     r=abs(z/math.sqrt(nx+ny))
 
-    return pandas.Series([U, p, r, z], index=['U-Wert', 'p-Wert',"r","z"])
+    return pandas.Series([p, r, z], index=['p-Wert',"r","z"])
 
 
 print('\n\nErgebnis H02 für Gruppe A (auf alle Erzählungen angewendet):\n')
@@ -96,4 +90,4 @@ print(stories_cg.apply(whitney))
 
 print('\n\nErgebnis für GruppeA+GruppeB')
 print(whitney(bigmomma))
-print(chi2extended('Suspense', 'Fragesatz',bigmomma))
+print(chi2extended(bigmomma))
