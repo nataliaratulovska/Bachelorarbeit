@@ -28,7 +28,7 @@ Ich möchte mich herzlich bei allen Korrekturlesern bedanken, die sich die Mühe
 Danke Kati, Nina und Patrick (und Ralf auch wenn deine Rechtschreibung und Grammatik mehr schaden als nutzen)!
 Ein großes Danke geht auch an Florian raus und gern geschehen, jetzt bist du studyflix Profi!
 Ebenfalls Danke an Ralf! Du bist mein (manchmal zu) ruhiges Gegenstück und bändigst jedes Chaos, das durch mich entsteht. Ich hasse es trotzdem immer noch, dass du alles last-minute machst, meine Plots ungünstig findest und mich dafür kritisierst, dass ich den Kuchen über der Spüle esse (es ist sehr effizient!!!).
-Zu guter Letzt geh ein riesen Dankeschön an Julian Schröter raus. Vielen Dank für die spannenden Anregungen, Ideen und die Unterstützung.
+Zu guter Letzt geht ein riesen Dankeschön an Julian Schröter raus. Vielen Dank für die spannenden Anregungen, Ideen und die Unterstützung.
 \
 \
 \
