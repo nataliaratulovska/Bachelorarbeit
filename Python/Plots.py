@@ -260,7 +260,7 @@ plt.show()
 
 #Boxplot
 
-def boxy(df):
+def boxy(df, y_min, y_max):
     s1 = df[df['Suspense']== '1']['Satzlänge']
     s0 = df[df['Suspense']== '0']['Satzlänge']
 
@@ -277,13 +277,30 @@ def boxy(df):
         median.set_color('black')
         median.set_linewidth(2)
 
+        # rahmendaten
+    def calculate_statistics(series):
+        min_val = np.min(series)
+        q1 = np.percentile(series, 25)
+        median = np.median(series)
+        q3 = np.percentile(series, 75)
+        max_val = np.max(series)
+        return min_val, q1, median, q3, max_val
+
+    s1_stats = calculate_statistics(s1)
+    s0_stats = calculate_statistics(s0)
+
+    print("s1 Stats - Min, Q1, Median, Q3, Max:", s1_stats)
+    print("s0 Stats - Min, Q1, Median, Q3, Max:", s0_stats)
+
     #Beschriftung
-    #plt.ylim(0, 100)
+    plt.ylim(y_min, y_max)
     ax.set_ylabel('Durchschnittliche Länge der Sätze in Wörtern')
     ax.set_title('Boxplot der Erzählung "'+df["Titel"].tolist()[1]+'"', pad=20)
     plt.show()
 
-boxy(g2_cg)
-boxy(g3_cg)
-boxy(g2)
-boxy(g3)
+
+
+boxy(g2, 0, 80)
+boxy(g3, 0, 80)
+boxy(g2_cg, 0, 100)
+boxy(g3_cg, 0, 100)

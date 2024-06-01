@@ -1,9 +1,3 @@
-TO-DO:
-- stat ergebnisse nachbessern, whitney du kannst mich mal und stats bibliothek auch >:-(
-- Boxplot hinzufügen + interpretieren
-- Gruppe A und B zusammen testen
-
-
 ## Willkommen bei der Dokumentation meiner Bacherlorarbeit
 
 <p align="left"><a href="#readme-english">Click here for English Version</a></p>
@@ -30,7 +24,11 @@ Natalia.Ratulovska@campus.lmu.de
 Project Link: https://github.com/nataliaratulovska/Bachelorarbeit
 
 ### Danksagung
-Kommt noch...
+Ich möchte mich herzlich bei allen Korrekturlesern bedanken, die sich die Mühe gemacht haben, sich durch diesen Brocken durchzuarbeiten.
+Danke Kati, Nina und Patrick (und Ralf auch wenn deine Rechtschreibung und Grammatik mehr schaden als nutzen)!
+Ein großes Danke geht auch an Florian raus und gern geschehen, jetzt bist du studyflix Profi!
+Ebenfalls Danke an Ralf! Du bist mein (manchmal zu) ruhiges Gegenstück und bändigst jedes Chaos, das durch mich entsteht. Ich hasse es trotzdem immer noch, dass du alles last-minute machst, meine Plots ungünstig findest und mich dafür kritisierst, dass ich den Kuchen über der Spüle esse (es ist sehr effizient!!!).
+Zu guter Letzt geh ein riesen Dankeschön an Julian Schröter raus. Vielen Dank für die spannenden Anregungen, Ideen und die Unterstützung.
 \
 \
 \
@@ -55,4 +53,8 @@ Natalia.Ratulovska@campus.lmu.de
 Project Link: https://github.com/nataliaratulovska/Bachelorarbeit
 
 ### Acknowledgments
-...
+I would like to thank all the proofreaders who took the trouble to work their way through this chunk.
+Thank you Kati, Nina and Patrick (and Ralf even if your spelling and grammar do more harm than good)!
+A big thank you also goes out to Florian and you're welcome, now you're a studyflix pro!
+Also thanks to Ralf! You are my (sometimes too) calm counterpart and tame any chaos I create. I still hate that you do everything last-minute, find my plots inconvenient, and criticize me for eating cake over the sink (it's very efficient!!!).
+Last but not least, a huge thank you goes out to Julian Schröter. Many thanks for the exciting suggestions, ideas and support.
